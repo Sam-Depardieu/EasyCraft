@@ -1,0 +1,31 @@
+{
+    "piocheB":
+    {
+        "icon":0,
+        "dura":0,
+        "type":0,
+        "degat":0,
+        "silkTouch":false,
+        "mineLvl":["pierre","charbon",""]
+    },
+    "piocheP":
+    {
+
+    },
+    "PiocheF":
+    {
+
+    },
+    "PiocheO":
+    {
+
+    },
+    "PiocheD":
+    {
+
+    },
+    "PiocheN":
+    {
+
+    }
+}
