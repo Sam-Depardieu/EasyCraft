@@ -34,7 +34,6 @@ module.exports = {
               `https://cdn.discordapp.com/banners/${user.id}/${user.banner}.png`
             );
         }
-
         const rankCard = await levelImage.build();
     
         // Envoie l'image dans le canal Discord

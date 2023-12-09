@@ -14,7 +14,6 @@ const mongoose = require('mongoose')
 
 client.commands = new Collection();
 client.buttons = new Collection();
-
 ['CommandUtil', 'EventUtil', 'ButtonUtil'].forEach(handler => { require(`./utils/handlers/${handler}`)(client) });
 require('./utils/functions')(client);
 
