@@ -17,8 +17,8 @@ module.exports = {
 
         (await pGlob(`${process.cwd()}/Commandes/Other/*.js`)).map(async cmdFile => {
             const cmd = require(cmdFile);
-            
-            data.push(`**${cmd.name.toString()}** : __${cmd.description.toString()}__`)
+            const argument = cmd.arg ? "<"+cmd.arg+"> ("+ (cmd.option?"optionnel":"obligatoire")+")" : ""
+            data.push(`**${cmd.name.toString()}** ${argument} : \n \t__${cmd.description.toString()}__`)
             
         });
         embed.setDescription(data.join('\n'));

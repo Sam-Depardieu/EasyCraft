@@ -4,6 +4,8 @@ module.exports = {
     name: 'head',
     description: 'tête de joueur',
     permissions: ['SEND_MESSAGES'],
+    arg: "pseudo Mc",
+    option: false,
     async run(client, message, args){
 
         var nickname = message.member.nickname;
