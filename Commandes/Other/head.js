@@ -1,18 +1,13 @@
-const { MessageEmbed } = require("discord.js");
-
 module.exports = {
     name: 'head',
     description: 'tête de joueur',
     permissions: ['SEND_MESSAGES'],
-    arg: "pseudo Mc",
-    option: false,
+    usage: "Affiche la tête d'un joueur Minecraft.",
+    require: true,
     async run(client, message, args){
 
         var nickname = message.member.nickname;
-        if (args[0])
-        {
-            nickname = args[0];
-        }
+        if (args[0]) nickname = args[0];
         if (!isNaN(args[0]))
         {
             let user = await client.users.fetch(args[0])

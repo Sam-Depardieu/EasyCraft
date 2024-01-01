@@ -1,0 +1,1716 @@
+{
+    "nbr":0,
+    "0":{
+        "question":"Quel célèbre dictateur dirigea l'URSS du milieu des années 1920 à 1953 ?",
+        "reponse":4,
+        "text":"Joseph Staline (1878-1953), de son vrai nom Iossif Vissarionovitch Djougachvili, a dirigé l'Union des républiques socialistes soviétiques, en occupant diverses fonctions (en tant que secrétaire général du comité centrale du parti communiste notamment). Après la mort de Lénine (1870-1924), le fondateur de l'URSS, il sut éliminer ses rivaux politiques, Trotski (1879-1940) au premier titre.",
+        "choix":[
+            "Lénine","Trotski","Molotov","Staline"
+        ]
+    },"1":{
+        "question":"Dans quel pays peut-on trouver la Catalogne, l'Andalousie et la Castille ?",
+        "reponse":4,
+        "text":"La Catalogne, l'Andalousie et la Castille sont des régions historiques de l'Espagne. Cependant, seules les deux premières sont des communautés autonomes (comunidades autónomas), une division territoriale. La Castille est divisée en plusieurs communautés autonomes (Castille-et-Léon, Castille La Manche, Madrid, etc.).",
+        "choix":["La France","L'Italie","Le Portugal","L'Espagne"]
+    },"2":{
+        "question":"Qui a dit : « Le sort en est jeté » (Alea jacta est) ?",
+        "reponse":1,
+        "text":"César aurait terminé par alea jacta est un discours à ses soldats qui leur expliquait son intention de franchir le Rubicon, ce qu'il fit le le 11 ou 12 janvier de l'an 49 av. J.-C.",
+        "choix":["César","Vercingétorix","Auguste","Attila"]
+    },"3":{
+        "question":"Le pingouin est-il un oiseau ?",
+        "reponse":1,
+        "text":"Le mot « pingouin » désigne en réalité le Petit Pingouin (Alca torda) qui, contrairement au manchot, sait voler.",
+        "choix":["Oui","Non"]
+    },"4":{
+        "question":"Quel cinéaste a réalisé « Parle avec elle » et « Volver » ?",
+        "reponse":2,
+        "text":"Pedro Almodóvar est une réalisateur espagnol. Parle avec elle (Hable con ella) est sorti en 2002, et Volver en 2006, avec une de ses actrices « fétiches », Penélope Cruz.",
+        "choix":["Pablo Trapero","Pedro Almodóvar","Woody Allen","Guillermo del Toro"]
+    },"5":{
+        "question":"À qui doit-on la chanson « I Shot the Sheriff » ?",
+        "reponse":4,
+        "text":"Cette célèbre chanson de reggae a été composée et écrite par le musicien jamaïcain Bob Marley (1945 - 1980). La chanson a été notamment reprise par Eric Clapton.",
+        "choix":["UB40","Eric Clapton","Jim Morrison","Bob Marley"]
+    },"6":{
+        "question":"Le Bon, la Brute, le Truand est un film de…",
+        "reponse":3,
+        "text":"Le Bon, la Brute et le Truand (1966), film de Sergio Leone (1929 - 1989), incarne le « Western Spaghetti ».",
+        "choix":["John Clegg","Henry Fonda","Sergio Leone","Jean-Jacques Annaud"]
+    },"7":{
+        "question":"Quel pays a remporté la coupe du monde de football en 2014 ?",
+        "reponse":2,
+        "text":"L'Allemagne a remporté la coupe du monde de 2014 organisée au Brésil après sa victoire 1-0 en finale contre l'Argentine, grâce à un but de Mario Götze marqué à la 113e minute.",
+        "choix":["L'Italie","L'Allemagne","Le Brésil","L'argentine"]
+    },"8":{
+        "question":"Dans quelle ville italienne l'action de la pièce de Shakespeare « Roméo et Juliette » se situe-t-elle ?",
+        "reponse":3,
+        "text":"Roméo Montaigu et Juliette Capulet sont souvent surnommés « les amants de Vérone ».",
+        "choix":["Rome","Venise","Vérone","Milan"]
+    },"9":{
+        "question":"Par quel mot désigne-t-on une belle-mère cruelle ?",
+        "reponse":4,
+        "text":"Marâtre vient du latin populaire matrastra, « femme du père ». Un chenapan et jocrisse s'appliquent surtout à des hommes, chenapan signifiant « vaurien », et jocrisse « mari qui se laisse mener par sa femme ». Une godiche est une femme gauche, un peu bêta, de timidité ridicule, etc.",
+        "choix":["Une jocrisse","Une chenapan","Une godiche","Une marâtre"]
+    },"10":{
+        "question":"Quelle profession est concernée par le serment d'Hippocrate ?",
+        "reponse":4,
+        "text":"Le grec Hippocrate (Ve - IVe siècle av. J.-C.) est traditionnellement considéré comme le « père de la médecine ». Ce serment est un rite traditionnel, il n'a pas de valeur juridique.",
+        "choix":["Avocat","Pharmacien","Juge","Médecin"]
+    },"11":{
+        "question":"Qui était le dieu de la guerre dans la mythologie grecque ?",
+        "reponse":2,
+        "text":"Les Romains ont assimilé Arès à Mars.",
+        "choix":["Hadès","Arès","Hermès","Apollon"]
+    },"12":{
+        "question":"Quelle est la véritable capitale de la Chine ?",
+        "reponse":2,
+        "text":"Pékin, ou Beijing, est bien la capitale de la Chine, et ce depuis la dynastie Ming au XVe siècle.",
+        "choix":["Shangaï","Pékin","Hong Kong","Canton"]
+    },"13":
+    {
+        "question":"Parmi les animaux suivants, lequel peut se déplacer le plus rapidement ?",
+        "reponse":4,
+        "text":"Le springbok est un genre de gazelle que l'on trouve au sud de l'Afrique.",
+        "choix":["Le mgbobe", "Le léopard", "Le chevreuil", "Le springbok"]
+    },"14":{
+        "question":"On dit qu'un cheval…",
+        "reponse":1,
+        "text":"On dit qu'un cheval hennit. Le hennissement est le cri caractéristique des chevaux.",
+        "choix":[
+            "hennit","blatère","hurle","rugit"
+        ]
+    },"15":{
+        "question":"Où se situe l'Oural ?",
+        "reponse":4,
+        "text":"L'Oural est une chaîne de montagnes qui se trouve en Russie, marquant la frontière naturelle entre l'Europe et l'Asie.",
+        "choix":[
+            "En Turquie","En Ukraine","En Chine","En Russie"
+        ]
+    },"16":{
+        "question":"Parmi les hommes politiques suivants, lequel a pris le pouvoir à partir de 1959 à Cuba ?",
+        "reponse":4,
+        "text":"Fidel Castro (1926-2016) a pris le pouvoir à Cuba à partir de 1959, menant la révolution cubaine et établissant un régime communiste à Cuba.",
+        "choix":[
+            "Hugo Chavez","Che Guevara","Fulgencio Batista","Fidel Castro"
+        ]
+    },"17":{
+        "question":"Pour quel groupe « vivons-nous tous dans un sous-marin jaune » ?",
+        "reponse":4,
+        "text":"La célèbre phrase « Nous vivons tous dans un sous-marin jaune » provient de la chanson des Beatles intitulée « Yellow Submarine », sortie en 1966.",
+        "choix":[
+            "Pink Floyd","The Who","Led Zeppelin","The Beatles"
+        ]
+    },"18":{
+        "question":"Que collectionne un philatéliste ?",
+        "reponse":2,
+        "text":"Un philatéliste collectionne des timbres. La philatélie est l'étude et la collection de timbres et de l'histoire postale.",
+        "choix":[
+            "Des pièces de monnaie","Des timbres","Des papillons","Des pins"
+        ]
+    },"19":{
+        "question":"Quel pays le mouvement des Talibans a-t-il gouverné de 1996 à 2001 ?",
+        "reponse":1,
+        "text":"Le mouvement des Talibans a gouverné l'Afghanistan de 1996 à 2001, imposant un régime strict basé sur l'interprétation radicale de la loi islamique.",
+        "choix":[
+            "L'Afghanistan","Le Kirghizistan","L'Arabie saoudite","L'Irak"
+        ]
+    },"20":{
+        "question":"À quel philosophe doit-on la sentence : « Je pense, donc je suis. » ?",
+        "reponse":3,
+        "text":"René Descartes (1596-1650) est le philosophe à qui l'on doit la célèbre sentence : « Je pense, donc je suis. » Cette déclaration philosophique est un élément fondamental de sa philosophie, exprimant le doute radical et le point de départ indubitable de la connaissance.",
+        "choix":[
+            "Hegel","Socrate","Descartes","Heidegger"
+        ]
+    },"21":{
+        "question":"Quel célèbre dictateur dirigea l'URSS du milieu des années 1920 à 1953 ?",
+        "reponse":4,
+        "text":"Joseph Staline (1878-1953), de son vrai nom Iossif Vissarionovitch Djougachvili, a dirigé l'Union des républiques socialistes soviétiques, en occupant diverses fonctions (en tant que secrétaire général du comité centrale du parti communiste notamment). Après la mort de Lénine (1870-1924), le fondateur de l'URSS, il sut éliminer ses rivaux politiques, Trotski (1879-1940) au premier titre.",
+        "choix":[
+            "Lénine","Trotski","Molotov","Staline"
+        ]
+    },"22":{
+        "question":"Dans quel pays peut-on trouver la Catalogne, l'Andalousie et la Castille ?",
+        "reponse":4,
+        "text":"La Catalogne, l'Andalousie et la Castille sont des régions historiques de l'Espagne. Cependant, seules les deux premières sont des communautés autonomes (comunidades autónomas), une division territoriale. La Castille est divisée en plusieurs communautés autonomes (Castille-et-Léon, Castille La Manche, Madrid, etc.).",
+        "choix":["La France","L'Italie","Le Portugal","L'Espagne"]
+    },"23":{
+        "question":"Qui a dit : « Le sort en est jeté » (Alea jacta est) ?",
+        "reponse":1,
+        "text":"César aurait terminé par alea jacta est un discours à ses soldats qui leur expliquait son intention de franchir le Rubicon, ce qu'il fit le le 11 ou 12 janvier de l'an 49 av. J.-C.",
+        "choix":["César","Vercingétorix","Auguste","Attila"]
+    },"24":{
+        "question":"Le pingouin est-il un oiseau ?",
+        "reponse":1,
+        "text":"Le mot « pingouin » désigne en réalité le Petit Pingouin (Alca torda) qui, contrairement au manchot, sait voler.",
+        "choix":["Oui","Non"]
+    },"25":{
+        "question":"Quel cinéaste a réalisé « Parle avec elle » et « Volver » ?",
+        "reponse":2,
+        "text":"Pedro Almodóvar est une réalisateur espagnol. Parle avec elle (Hable con ella) est sorti en 2002, et Volver en 2006, avec une de ses actrices « fétiches », Penélope Cruz.",
+        "choix":["Pablo Trapero","Pedro Almodóvar","Woody Allen","Guillermo del Toro"]
+    },"26":{
+        "question":"À qui doit-on la chanson « I Shot the Sheriff » ?",
+        "reponse":4,
+        "text":"Cette célèbre chanson de reggae a été composée et écrite par le musicien jamaïcain Bob Marley (1945 – 1980). La chanson a été notamment reprise par Eric Clapton.",
+        "choix":["UB40","Eric Clapton","Jim Morrison","Bob Marley"]
+    },"27":{
+        "question":"Le Bon, la Brute, le Truand est un film de…",
+        "reponse":3,
+        "text":"Le Bon, la Brute et le Truand (1966), film de Sergio Leone (1929 – 1989), incarne le « Western Spaghetti ».",
+        "choix":["John Clegg","Henry Fonda","Sergio Leone","Jean-Jacques Annaud"]
+    },"28":{
+        "question":"Quel pays a remporté la coupe du monde de football en 2014 ?",
+        "reponse":2,
+        "text":"L'Allemagne a remporté la coupe du monde de 2014 organisée au Brésil après sa victoire 1-0 en finale contre l'Argentine, grâce à un but de Mario Götze marqué à la 113e minute.",
+        "choix":["L'Italie","L'Allemagne","Le Brésil","L'argentine"]
+    },"29":{
+        "question":"Dans quelle ville italienne l'action de la pièce de Shakespeare « Roméo et Juliette » se situe-t-elle ?",
+        "reponse":3,
+        "text":"Roméo Montaigu et Juliette Capulet sont souvent surnommés « les amants de Vérone ».",
+        "choix":["Rome","Venise","Vérone","Milan"]
+    },"30":{
+        "question":"Par quel mot désigne-t-on une belle-mère cruelle ?",
+        "reponse":4,
+        "text":"Marâtre vient du latin populaire matrastra, « femme du père ». Un chenapan et jocrisse s'appliquent surtout à des hommes, chenapan signifiant « vaurien », et jocrisse « mari qui se laisse mener par sa femme ». Une godiche est une femme gauche, un peu bêta, de timidité ridicule, etc.",
+        "choix":["Une jocrisse","Une chenapan","Une godiche","Une marâtre"]
+    },"31":{
+        "question":"Quelle profession est concernée par le serment d'Hippocrate ?",
+        "reponse":4,
+        "text":"Le grec Hippocrate (Ve – IVe siècle av. J.-C.) est traditionnellement considéré comme le « père de la médecine ». Ce serment est un rite traditionnel, il n'a pas de valeur juridique.",
+        "choix":["Avocat","Pharmacien","Juge","Médecin"]
+    },"32":{
+        "question":"Qui était le dieu de la guerre dans la mythologie grecque ?",
+        "reponse":2,
+        "text":"Les Romains ont assimilé Arès à Mars.",
+        "choix":["Hadès","Arès","Hermès","Apollon"]
+    },"33":{
+        "question":"Quelle est la véritable capitale de la Chine ?",
+        "reponse":2,
+        "text":"Pékin, ou Beijing, est bien la capitale de la Chine, et ce depuis la dynastie Ming au XVe siècle.",
+        "choix":["Shangaï","Pékin","Hong Kong","Canton"]
+    },"34":{
+        "question":"Parmi les animaux suivants, lequel peut se déplacer le plus rapidement ?",
+        "reponse":4,
+        "text":"Le springbok est un genre de gazelle que l'on trouve au sud de l'Afrique.",
+        "choix":["Le mgbobe", "Le léopard", "Le chevreuil", "Le springbok"]
+    },"35":{
+        "question":"Quelle est la couleur d'un passeport français ?",
+        "reponse":3,
+        "text":"Le passeport français à la couleur rouge bordeaux.",
+        "choix":["Vert sapin","Bleu nuit","Rouge bordeaux","Violet zinzolin"]
+    },"36":{
+        "question":"Quel est le style de la cathédrale Notre-Dame de Paris ?",
+        "reponse":4,
+        "text":"La cathédrale Notre-Dame a un style Gothique.",
+        "choix":["Moderne","Roman","Baroque","Gothique"]
+    }, "37":{
+        "question":"En combien d'arrondissements municipaux la ville de Paris est-elle divisée ?",
+        "reponse":4,
+        "text":"La ville de Paris est divisée en 20 arrondissements ",
+        "choix":["22","18","24","20"]
+    }, "38":{
+        "question":"Quel animal est l'emblème du Royaume-Uni ?",
+        "reponse":1,
+        "text":"En France le coq est notre symbole tandis qu'au Royaume-Uni le symbole du pays  est le Lion",
+        "choix":["Le lion","l'aigle ","Le corbeau","Le dauphin"]
+    },"39":{
+        "question":"Dans quel club américain Tony Parker a-t-il joué la majorité de sa carrière de basketteur ?",
+        "reponse":2,
+        "text":"Tony Parker a principalement jouer dans la célèbre équipe Les Spurs de San Antonio",
+        "choix":["Les Bulls de Chicago","Les Spurs de San Antonio","Les Lakers de Los Angeles","Le PSG"]
+    },"40":{
+        "question":"Quel gratte-ciel de Dubaï est devenu en mai 2008 la structure la plus haute jamais construite ?",
+        "reponse":4,
+        "text":"Le Burj Khalifa est depuis 2008 et encore actuellement la plus haute tour jamais construite au monde",
+        "choix":["Princess Tower","Marina 101","Almas Tower","Burj Khalifa"]
+    },"41":{
+        "question":"Qui est considéré comme “le père” de la bombe atomique ?",
+        "reponse":1,
+        "text":"Robert Oppenheimer était un physicien théoricien américain qui a joué un rôle essentiel dans le programme de recherche et de développement visant à créer la première bombe atomique.",
+        "choix":["Robert Oppenheimer","Albert Einstein","Rudolf Diesel","Marie Poppins"]
+    },"42":{
+        "question":"Combien de côtés possède un dodécagone ?",
+        "reponse":3,
+        "text":"Dodéca est un préfixe d'origine grecque signifiant douze.",
+        "choix":["11","22","12","18"]
+    },"43":{
+        "question":"Quel était le nom du premier prototype d'avion créé par Clément Ader et testé en 1890 ?",
+        "reponse":2,
+        "text":"Dans la mythologie antique, Éole est le dieu du vent. Éole est le premier prototype d'avion de type aérodyne, construit par Clément Ader. Il s'inspire de la morphologie des chauves-souris. C'est le premier pas de l'aviation, ce prototype aura au mieux décollé de 20 cm du sol sur environ 50m.",
+        "choix":["Irasa","Éole","Athéna","Atlas"]
+    },"44":{
+        "question":"Quel est le nom de la souris compagnon de Dumbo dans le grand classique Disney ?",
+        "reponse":4,
+        "text":"La souris portais le nom de Timothée.",
+        "choix":["Isac","Adrien","Oxinos","Thimothée"]
+    },"45":{
+        "question":"Quel pays a intégré la zone euro cette année ?",
+        "reponse":1,
+        "text":"La Croatie a en effet rejoins la zone euro cette année( zone monétaire qui regroupe les États membres de l'Union européenne qui ont adopté l'euro (EUR, « € ») comme monnaie).",
+        "choix":["La Croatie","Le Portugal","Le Brésil","Le Kirghizistan"]
+    },"46":{
+        "question":"Qui étaient les deux Français récipiendaires du prix Nobel de physique cette année ?",
+        "reponse":3,
+        "text":"Anne L'Huillier et Pierre Agostini ont reçu le prix Nobel de physique cette année pour leurs contributions remarquables dans le domaine de la physique.",
+        "choix":["Marie Curie et Jean Perrin","Pierre et Marie Curie","Anne L'Huillier et Pierre Agostini","Pierre et Paul"]
+    },"47":{
+        "question":"Qui sera l'ambassadrice du relais de la flamme olympique pour les Jeux olympiques de 2024, aux côtés de Thomas Pesquet, Jamel Debbouze et Thierry Marx ?",
+        "reponse":4,
+        "text":"Marine Lorphelin sera l'ambassadrice du relais de la flamme olympique pour les Jeux olympiques de 2024, accompagnée de Thomas Pesquet, Jamel Debbouze et Thierry Marx.",
+        "choix":["Flora Coquerel","Iris Mittenaere","Sylvie Tellier","Marine Lorphelin"]
+    },"48":{
+        "question":"Qui était l'actrice représentée sur l'affiche du Festival de Cannes 2023 ?",
+        "reponse":1,
+        "text":"Catherine Deneuve a prêté son image pour l'affiche du Festival de Cannes 2023.",
+        "choix":["Juliette Binoche","Catherine Deneuve","Marion Cotillard","Isabelle Huppert"]
+    },"49":{
+        "question":"Qui a été nommée meilleure pâtissière du monde par l'Union Internationale des Boulangers et Pâtissiers en octobre dernier ?",
+        "reponse":2,
+        "text":"Nina Metayer a été sacrée meilleure pâtissière du monde par l'Union Internationale des Boulangers et Pâtissiers en octobre dernier.",
+        "choix":["Christelle Brua","Nina Metayer","Jessica Préalpato","Cédric Grolet"]
+    },"50":{
+        "question":"Où se tiendra la COP 28 débutant le 30 novembre prochain ?",
+        "reponse":3,
+        "text":"La COP 28 débutera le 30 novembre prochain à Dubaï.",
+        "choix":["Londres","Berlin","Dubaï","New York"]
+    },"51":{
+        "question":"Combien de restaurants étoilés y a-t-il en Côte-d'Or en 2023 ?",
+        "reponse":4,
+        "text":"En 2023, il y a 15 restaurants étoilés en Côte-d'Or.",
+        "choix":["9","12","17","15"]
+    },"52":{
+        "question":"Quel était le nom du premier prototype d'avion créé par Clément Ader et testé en 1890 ?",
+        "reponse":2,
+        "text":"Dans la mythologie antique, Éole est le dieu du vent. Éole est le premier prototype d'avion de type aérodyne, construit par Clément Ader. Il s'inspire de la morphologie des chauves-souris. C'est le premier pas de l'aviation, ce prototype aura au mieux décollé de 20 cm du sol sur environ 50m.",
+        "choix":["Irasa","Éole","Athéna","Atlas"]
+    },"53":{
+        "question":"Quel est le nom de la souris compagnon de Dumbo dans le grand classique Disney ?",
+        "reponse":4,
+        "text":"La souris portait le nom de Timothée.",
+        "choix":["Isac","Adrien","Oxinos","Timothée"]
+    },"54": {
+        "question": "Qui a écrit 'La Guerre et la Paix' ?",
+        "reponse": 4,
+        "text": "Léon Tolstoï. 'La Guerre et la Paix' est un roman écrit par Tolstoï.",
+        "choix": ["Fiodor Dostoïevski", "Anton Tchekhov", "Ivan Tourgueniev", "Léon Tolstoï"]
+    },"55":{
+        "question":"Quelle est la capitale du Brésil ?",
+        "reponse":3,
+        "text":"La capitale du Brésil est Brasilia.",
+        "choix":["São Paulo","Rio de Janeiro","Brasilia","Salvador"]
+    },"56":{
+        "question":"Quelle est la capitale du Maroc ?",
+        "reponse":3,
+        "text":"La capitale du Maroc est Rabat.",
+        "choix":["Casablanca","Marrakech","Rabat","Fès"]
+    },"57":{
+        "question":"Quelle est la capitale de la Bolivie ?",
+        "reponse":2,
+        "text":"La capitale de la Bolivie est La Paz.",
+        "choix":["Sucre","La Paz","Cochabamba","Santa Cruz de la Sierra"]
+    },"58":{
+        "question":"Quelle est la capitale de la Norvège ?",
+        "reponse":4,
+        "text":"La capitale de la Norvège est Oslo.",
+        "choix":["Stavanger","Trondheim","Bergen","Oslo"]
+    },"59":{
+        "question":"Quelle est la capitale de la Turquie ?",
+        "reponse":2,
+        "text":"La capitale de la Turquie est Ankara.",
+        "choix":["Istanbul","Ankara","Antalya","Izmir"]
+    },"60":{
+        "question":"Quelle est la capitale de la Suisse ?",
+        "reponse":4,
+        "text":"La capitale de la Suisse est Berne.",
+        "choix":["Zurich","Genève","Lausanne","Berne"]
+    },"61":{
+        "question":"Quel pays est surnommé « le pays du Soleil Levant » ?",
+        "reponse":4,
+        "text":"Le Japon est surnommé « le pays du Soleil Levant ».",
+        "choix":["Chine","Corée du Sud","Vietnam","Japon"]
+    },"62":{
+        "question":"Si l'élection de Miss Univers a eu lieu au Salvador et que vous vous rendez à la plage dans ce pays, dans quel océan vous baignerez-vous ?",
+        "reponse":3,
+        "text":"Au Salvador, si vous allez à la plage, vous vous baignerez dans l'océan Pacifique.",
+        "choix":["Atlantique","Arctique","Pacifique","Indien"]
+    },"63":{
+        "question":"Quel évènement a été célébré le 6 mai 2023 au Royaume-Uni ?",
+        "reponse":2,
+        "text":"Le couronnement du roi Charles III a été célébré le 6 mai 2023 au Royaume-Uni.",
+        "choix":["Jubilé de la Reine","Couronnement du roi Charles III","Journée de l'Indépendance","Fête nationale"]
+    },"64":{
+        "question":"Quel évènement marque la fin de la Préhistoire ?",
+        "reponse":1,
+        "text":"La fin de la Préhistoire est marquée par l'invention de l'écriture.",
+        "choix":["L'invention de l'écriture","La Révolution néolithique","L'invention de la roue","L'apparition de l'agriculture"]
+    },"65":{
+        "question":"Quel personnage historique est à l'origine du Code civil ?",
+        "reponse":4,
+        "text":"Napoléon Bonaparte est à l'origine du Code civil.",
+        "choix":["Louis XIV","Marie-Antoinette","Robespierre","Napoléon Bonaparte"]
+    },"66":{
+        "question":"Dans quel moyen de transport l'Armistice du 11 novembre 1918 a-t-il été signé ?",
+        "reponse":2,
+        "text":"L'Armistice du 11 novembre 1918 a été signé dans un train.",
+        "choix":["Avion","Train","Voiture","Bateau"]
+    },"67":{
+        "question":"En 1965, quel droit les femmes ont-elles obtenu en France ?",
+        "reponse":3,
+        "text":"En 1965, les femmes ont obtenu le droit d'ouvrir un compte bancaire sans l'autorisation de leur mari.",
+        "choix":["Le droit de vote","Le droit au travail","Le droit d'ouvrir un compte bancaire sans l'autorisation de leur mari","Le droit à l'éducation"]
+    },"68":{
+        "question":"Comment s'appelait l'homme qui a lancé un appel d'urgence pour aider les sans-abri pendant la vague de froid en France le 1er février 1954 ?",
+        "reponse":2,
+        "text":"L'homme qui a lancé un appel d'urgence pour aider les sans-abri pendant la vague de froid en France le 1er février 1954 était l'Abbé Pierre.",
+        "choix":["Charles de Gaulle","L'Abbé Pierre","François Mitterrand","Jacques Chirac"]
+    },"69":{
+        "question":"Quels pays ont une frontière commune avec la Guyane française ?",
+        "reponse":4,
+        "text":"La Guyane française partage des frontières avec le Brésil et le Suriname.",
+        "choix":["Brésil et Pérou","Venezuela et Suriname","Colombie et Brésil","Brésil et Suriname"]
+    },"70":{
+        "question":"Si un croissant et une chouquette coûtent 2,10 euros au total et que le croissant coûte 2 euros de plus que la chouquette, combien coûte la chouquette ?",
+        "reponse":3,
+        "text":"La chouquette coûte 5 centimes.",
+        "choix":["20 centimes","50 centimes","5 centimes","70 centimes"]
+    },"71":{
+        "question":"Si Nathan et Tom ont à eux deux 64 ans et que Nathan est 3 fois plus âgé que Tom, quel âge a Tom ?",
+        "reponse":2,
+        "text":"Tom a 16 ans.",
+        "choix":["20 ans","16 ans","24 ans","32 ans"]
+    },"72":{
+        "question":"Si un article initialement vendu à 15 euros est soldé à moins 20%, quel est son prix soldé ?",
+        "reponse":2,
+        "text":"Son prix soldé est de 12 euros.",
+        "choix":["10€","12€","8€","14€"]
+    },"73":{
+        "question":"Quelle est la note moyenne si on a eu un 4, un 6, un 9 et un 20/20 ?",
+        "reponse":3,
+        "text":"La note moyenne est de 9,75 sur 20.",
+        "choix":["8/20","10/20","9,75/20","12/20"]
+    },"74":{
+        "question":"Complétez la suite numérique : 3, 13, 1113, 3113...",
+        "reponse":4,
+        "text":"La suite numérique se complète avec 132113.",
+        "choix":["1213","2113","3113","132113"]
+    },"75":{
+        "question":"Si des nénuphars doublent chaque jour la superficie qu'ils couvrent dans un lac et qu'ils ont couvert entièrement le lac en 48 jours, combien de jours leur a-t-il fallu pour couvrir la moitié du lac ?",
+        "reponse":3,
+        "text":"Il leur a fallu 47 jours pour couvrir la moitié du lac.",
+        "choix":["24 jours","35 jours","47 jours","46 jours"]
+    },"76": {
+        "question": "Votre médecin vous prescrit un cachet à prendre toutes les demi-heures, combien de temps vous faudra-t-il pour prendre six cachets ?",
+        "reponse": 3,
+        "text": "Si vous prenez un cachet toutes les demi-heures, vous mettrez 2 heures pour prendre quatre cachets, puis 30 minutes de plus pour les deux cachets suivants, donc un total de 2h30.",
+        "choix": ["2h","1h30","2h30","3h"]
+    },"77": {
+        "question": "R3 J1 N6 D4 I5 A2 = Jardin. C1 P5 R2 U4 E6 O3 = ?",
+        "reponse": 4,
+        "text": "Chaque lettre est suivie de son positionnement dans le mot à former. Par exemple, 'R3' signifie que le 'R' est à la troisième position dans le mot 'Jardin'. En suivant cette logique, la séquence C1 P5 R2 U4 E6 O3 correspond à 'Croupe'.",
+        "choix": ["Clair","Piste","Rue","Croupe"]
+    },"78": {
+        "question": "21VN 32TX 43QS... En suivant cette logique, quelles sont les deux lettres à mettre derrière 54 ?",
+        "reponse": 1,
+        "text": "Dans chaque cas, la première lettre correspond à la première lettre du premier chiffre dans sa forme écrite et la deuxième lettre correspond à la dernière lettre du deuxième chiffre dans sa forme écrite. Pour 54, c'est donc Cinquante et quatrE, d'où les lettres 'CE'.",
+        "choix": ["CE","AT","QS","EN"]
+    },"79": {
+        "question": "Quelle est la solution de l'équation : 28x + 30y + 31z = 365 ?",
+        "reponse": 4,
+        "text": "Pour résoudre cette équation, on peut trouver une combinaison de valeurs pour x, y et z qui satisfait l'équation. Les valeurs x = 1, y = 4 et z = 7 fonctionnent dans cette équation.",
+        "choix": ["x = 5, y = 3, z = 2","x = 7, y = 2, z = 5","x = 2, y = 5, z = 7","x = 1, y = 4, z = 7"]
+    },"80": {
+        "question": "Sur quelle main le Penseur de Rodin appuie-t-il son menton ?",
+        "reponse": 2,
+        "text": "Le Penseur de Rodin appuie son menton sur sa main droite.",
+        "choix": ["La gauche","La droite","Les deux","Aucune"]
+    },"81": {
+        "question": "Dans la suite de quel film mythique des années 80 Tom Cruise a-t-il repris son rôle de Pete « Maverick » Mitchell en 2022 ?",
+        "reponse": 1,
+        "text": "Tom Cruise a repris son rôle de Pete « Maverick » Mitchell dans la suite du film 'Top Gun'.",
+        "choix": ["Top Gun","Cocktail","Rain Man","La Guerre des mondes"]
+    },"82": {
+        "question": "Qui est l'auteur de cette célèbre citation : « On ne naît pas femme. On le devient ».",
+        "reponse": 3,
+        "text": "Cette citation est de Simone de Beauvoir, une philosophe et écrivaine française.",
+        "choix": ["Virginia Woolf","Marguerite Duras","Simone de Beauvoir","George Sand"]
+    },"83": {
+        "question": "Quel célèbre duo de la chanson française a sorti un nouvel album en 2022 intitulé « Les autres c'est nous » ?",
+        "reponse": 2,
+        "text": "Le célèbre duo de la chanson française Bigflo et Oli a sorti un nouvel album en 2022 intitulé « Les autres c'est nous ».",
+        "choix": ["PNL", "Bigflo et Oli", "IAM","Suprême NTM"]
+    },"84": {
+        "question": "Quelle cérémonie récompense le monde de la musique aux États-Unis ?",
+        "reponse": 3,
+        "text": "La cérémonie qui récompense le monde de la musique aux États-Unis est les Grammy Awards.",
+        "choix": ["Oscars","Golden Globes","Grammy Awards","MTV Music Awards"]
+    },"85": {
+        "question": "À combien estime-t-on le pourcentage d'eau douce sur Terre ?",
+        "reponse": 2,
+        "text": "Le pourcentage d'eau douce sur Terre est estimé à environ 2,5%.",
+        "choix": ["5%","2,5%","10%","0,5%"]
+    },"86": {
+        "question": "Qu'est-ce qu'une plante endémique ?",
+        "reponse": 3,
+        "text": "Une plante endémique est une espèce qui ne se développe que dans une région géographique limitée.",
+        "choix": ["Une plante qui se développe partout","Une plante qui ne pousse que dans des serres","Une plante qui ne se développe que dans une région géographique limitée","Une plante qui pousse uniquement en été"]
+    },"87": {
+        "question": "Lequel de ces déchets met le plus de temps à se décomposer dans la nature ?",
+        "reponse": 3,
+        "text": "La bouteille plastique met un temps très long à se décomposer dans la nature.",
+        "choix": ["Papier","Métal","Bouteille plastique","Verre"]
+    },"88": {
+        "question": "Une immense nappe de déchets flotte dans l'océan Pacifique. On estime sa taille à…",
+        "reponse": 1,
+        "text": "L'immense nappe de déchets flottant dans l'océan Pacifique est estimée à environ 3 fois la France.",
+        "choix": ["3 fois la France","La taille du Texas","10 fois la Chine","La taille de l'Australie"]
+    },"89": {
+        "question": "Parmi ces propositions, lequel de ces animaux tue le plus d'hommes chaque année ?",
+        "reponse": 4,
+        "text": "L'hippopotame est l'un des animaux qui tuent le plus d'hommes chaque année.",
+        "choix": ["Requin","Crocodile","Lion","Hippopotame"]
+    },"90": {
+        "question": "Quelle forme peut-on voir au centre du panneau indiquant une priorité à droite ?",
+        "reponse": 2,
+        "text": "Au centre du panneau indiquant une priorité à droite, on peut voir une croix, symbolisant cette priorité.",
+        "choix": ["Carré","Croix","Triangle","Losange"]
+    },"91": {
+        "question": "Il est autorisé de téléphoner au volant muni d'une oreillette :",
+        "reponse": 2,
+        "text": "Faux. Téléphoner au volant, même muni d'une oreillette, est interdit dans de nombreux endroits pour des raisons de sécurité routière.",
+        "choix": ["Vrai","Faux","Parfois","Uniquement avec un kit mains-libres"]
+    },"92": {
+        "question": "Quel mot a le sens le plus proche de « consensus » ?",
+        "reponse": 2,
+        "text": "Le mot qui a le sens le plus proche de 'consensus' est 'accord', représentant un accord général ou une entente commune.",
+        "choix": ["Désaccord","Accord","Divergence","Dissension"]
+    },"93": {
+        "question": "Exact est à incorrect ce que adroit est à :",
+        "reponse": 1,
+        "text": "Adroit est à gauche. La paire de mots 'exact' et 'incorrect' possède une relation similaire à celle entre 'adroit' et 'gauche'.",
+        "choix": ["Gauche","Précis","Habile","Droit"]
+    },"94": {
+        "question": "Quel mot peut-on associer à ces deux définitions : « Une petite danseuse classique » et « Un ami avare » ?",
+        "reponse": 3,
+        "text": "Le mot associé à ces deux définitions est 'un rat', pouvant représenter à la fois une danseuse classique et un ami avare.",
+        "choix": ["Un cygne","Un chapeau","Un rat","Un livre"]
+    },"95": {
+        "question": "Conjuguez les phrases suivantes avec le verbe « porter » : Les robes qui ont été [porter] pour la sélection des 15 finalistes en 2022 étaient roses. Si je suis élue Miss France, je [porter] l'écharpe avec fierté.",
+        "reponse": 3,
+        "text": "Les robes qui ont été portées pour la sélection des 15 finalistes en 2022 étaient roses. Si je suis élue Miss France, je porterai l'écharpe avec fierté.",
+        "choix": ["portant / portera","porté / portera","portées / porterai","portés / porterai"]
+    },"96": {
+        "question": "Quel mot manque-t-il pour reconstituer deux expressions populaires : Quand on parle du…, on en voit la queue » et « Se jeter dans la gueule du… » ?",
+        "reponse": 1,
+        "text": "Le mot qui manque pour reconstituer ces expressions est 'loup'. Les expressions sont 'Quand on parle du loup, on en voit la queue' et 'Se jeter dans la gueule du loup'.",
+        "choix": ["Loup","Chien","Renard","Tigre"]
+    },"97": {
+        "question": "Lequel de ces mots est correctement orthographié ?",
+        "reponse": 1,
+        "text": "Le mot correctement orthographié est 'gaufre'.",
+        "choix": ["Gaufre","Goaffre","Ghoafre","Gawfre"]
+    },"98": {
+        "question": "Complétez la phrase suivante en conjuguant le verbe indiqué entre parenthèses... Sonia (to be) the most beautiful girl in my campus ?",
+        "reponse": 1,
+        "text": "La phrase complétée est : 'Sonia is the most beautiful girl in my campus.'",
+        "choix": ["is / was","am / is","are / will be","has been / is"]
+    },"99": {
+        "question": "Même exerci qu'avant : Look at the door ! Tom is (to open) it now ?",
+        "reponse": 3,
+        "text": "La phrase complétée est : 'Look at the door! Tom is opening it now.'",
+        "choix": ["opens","opened","opening","open"]
+    },"100": {
+        "question": "En quelle année a été diffusée pour la première fois le concours Miss France sur TF1 ?",
+        "reponse": 1,
+        "text": "Le concours Miss France a été diffusé pour la première fois sur TF1 en 1995 pour l'élection de Miss France 1996.",
+        "choix": ["1995","1998","2000","1990"]
+    },"101":{
+        "question":"Quel pays portait autrefois le nom de Siam ?",
+        "reponse":2,
+        "text":"Le Siam devient la Thaïlande en 1939.",
+        "choix":["La France ","La Thaïlande ","L'Iran","Le Pakistan"]
+    },"102":{
+        "question":"Quel est le nom de la constellation en forme de casserole ?",
+        "reponse":1,
+        "text":"La constellation en forme de casserole est La grande Ourse",
+        "choix":["La grande Ourse","La juliphole","Cassiopé","La casserole"]
+    }, "103":{
+        "question":"Quel est le nom de la troisième caravelle de Christophe Colomb avec la Niña et la Pinta ?",
+        "reponse":4,
+        "text":"la troisième avait le nom de la Santa María",
+        "choix":["Celûna","La Madrilaña","El Charlota","La Santa María"]
+    }, "104":{
+        "question":"Dans le film 'Le Petit Nicolas', sorti en septembre 2009, quel acteur tient le rôle du père de Nicolas ?",
+        "reponse":1,
+        "text":"C'est bien entendu Kad Merad",
+        "choix":["Kad Merad","Romain Duris","Booder","Elie Semoune"]
+    }, "105":{
+        "question":"De qui Gustave Eiffel a-t-il fait graver les noms au niveau du 1er étage de la tour Eiffel ?",
+        "reponse":3,
+        "text":"Gustave Eiffel a fait graver au niveau du 1er étage de la tour Eiffel 72 noms de scientifiques, ingénieurs ou industriels qui ont honoré la France de 1789 à 1889. Parmi ces noms figurent des mathématiciens dont Cauchy, Chasles, Fourier, Lagrange, Laplace, Legendre et Poisson.",
+        "choix":["Des noms des groupes de personnes qui ont liberté Paris de l'occupation nazi","Du président de la 5eme république ","De 72 scientifiques ","Des 8 plus grands dramaturges français"]
+    }, "106":{
+        "question":"Que permet de mesurer une année-lumière ?",
+        "reponse":4,
+        "text":"L'année-lumière est une unité de longueur utilisée en astronomie. Elle est égale à la distance parcourue par la lumière dans le vide pendant une année julienne, soit environ 9 461 milliards de kilomètres.",
+        "choix":["Le théorème de Pythagore ","Une vitesse","Une durée ( un temps )","Une distance"]
+    }, "107":{
+        "question":"Dans quel pays le soleil ne se couche-t-il pas (ou presque) en été ?",
+        "reponse":2,
+        "text":"Le « jour polaire », aussi appelé « soleil de minuit » correspond à une période de l'année où le soleil ne disparaît pas de l'horizon. Ce phénomène apparaît principalement en Scandinavie, en Islande et en Russie. Il est causé par l'inclinaison de la Terre sur son axe.",
+        "choix":["L'Irlande ","La Finlande","l'Antarctique","le bas du Canada"]
+    },"108":{
+        "question":"Quelle est la hauteur totale de la statue de la Liberté à New York (socle inclus) ?",
+        "reponse":4,
+        "text":"La statue de la Liberté fait en elle-même 46 m de haut plus un socle haut de 47 m.",
+        "choix":["213m","214m","187m","93m"]
+    }, "109":{
+        "question":"Quel est le nom de la peau jetée par le serpent après avoir mué ?",
+        "reponse":1,
+        "text":"L'exuvie est la peau rejetée par tous les animaux qui muent comme les criquets ou les coccinelles.",
+        "choix":["L'exuvie","La filotypi","Le cloaque","Le manique"]
+    }, 
+    "110": {
+        "question": "Quel érudit de la Renaissance est associé à la phrase 'Et pourtant, elle tourne' ?",
+        "reponse": 2,
+        "text": "Galilée. Il est célèbre pour sa défense du système héliocentrique malgré l'opposition de l'Église catholique.",
+        "choix": ["Freud", "Galilée", "Einstein"]
+    },"111": {
+        "question": "Quel pays abrite le massif du Hoggar ?",
+        "reponse": 2,
+        "text": "L'Algérie. Le massif du Hoggar se trouve en Algérie, caractérisé par ses paysages montagneux et désertiques.",
+        "choix": ["Le Maroc", "L'Algérie", "La Mauritanie", "L'Irlande"]
+    },"112": {
+        "question": "Quel est le titre du premier volet des Souvenirs d'enfance de Marcel Pagnol ?",
+        "reponse": 1,
+        "text": "La Gloire de mon père. Ce livre relate les souvenirs d'enfance de Pagnol dans le sud de la France.",
+        "choix": ["La Gloire de mon père", "Le Château de ma mère", "Le Temps des secrets"]
+    },"113": {
+        "question": "Quelle entreprise Ingvar Kamprad a-t-il fondée ?",
+        "reponse": 1,
+        "text": "IKEA. Kamprad est le fondateur de cette célèbre chaîne de magasins de meubles.",
+        "choix": ["IKEA", "LEGO", "NOKIA", "XIAOMI"]
+    },"114": {
+        "question": "Quel sportif de légende était surnommé 'Le Cannibale' ?",
+        "reponse": 2,
+        "text": "Eddy Merckx. Ce cycliste belge était surnommé ainsi en raison de sa domination sans précédent dans le cyclisme sur route.",
+        "choix": ["Carl Lewis", "Eddy Merckx", "Mohamed Ali"]
+    },"115": {
+        "question": "Quel est l'oiseau le plus lourd capable de voler ?",
+        "reponse": 3,
+        "text": "L'albatros hurleur. Malgré son poids considérable, cet oiseau marin est capable de voler.",
+        "choix": ["Le flamant rose", "Le pélican blanc", "L'albatros hurleur"]
+    },"116": {
+        "question": "Quel est le symbole chimique du potassium ?",
+        "reponse": 4,
+        "text": "K. Le symbole chimique du potassium est K.",
+        "choix": ["P", "Po", "Pt", "K"]
+    },"117": {
+        "question": "Quelles sont les chaussures préférées de Gaston Lagaffe ?",
+        "reponse": 3,
+        "text": "Des espadrilles bleues. Gaston Lagaffe est souvent vu portant des espadrilles bleues.",
+        "choix": ["Des sandales vertes", "Des pantoufles blanches", "Des espadrilles bleues"]
+    },"118": {
+        "question": "Quel est le titre de ce film culte : 'Vol au-dessus d'un nid de coucou' ?",
+        "reponse": 2,
+        "text": "'Vol au-dessus d'un nid de coucou'. Ce film met en vedette Jack Nicholson et explore les réalités troublantes d'une institution psychiatrique.",
+        "choix": ["Quand les aigles attaquent", "Vol au-dessus d'un nid de coucou", "Les oiseaux se cachent pour mourir"]
+    },"119": {
+        "question": "Quel acteur s'est fait connaître en jouant dans la série 'Clair de lune' ?",
+        "reponse": 3,
+        "text": "Bruce Willis. Bruce Willis a gagné en popularité grâce à son rôle dans la série télévisée 'Clair de lune'.",
+        "choix": ["Bruce Willis", "Pierce Brosnan", "Michael J. Fox"]
+    },"120": {
+        "question": "Quel est le nom de l'écrivain français auteur du roman 'Les Misérables' ?",
+        "reponse": 3,
+        "text": "Victor Hugo. Il est l'auteur du célèbre roman 'Les Misérables', publié en 1862.",
+        "choix": ["Gustave Flaubert", "Émile Zola", "Victor Hugo", "Charles Baudelaire"]
+    },"121": {
+        "question": "Quelle est la capitale du Japon ?",
+        "reponse": 4,
+        "text": "Tokyo. Tokyo est la capitale du Japon, connue pour sa culture riche et sa modernité.",
+        "choix": ["Osaka", "Kyoto", "Hiroshima", "Tokyo"]
+    },"122": {
+        "question": "Qui a peint 'La Joconde' ?",
+        "reponse": 3,
+        "text": "Leonardo da Vinci. 'La Joconde' est une célèbre peinture réalisée par Leonardo da Vinci.",
+        "choix": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michel-Ange"]
+    },"123": {
+        "question": "Quel est le plus grand océan du monde ?",
+        "reponse": 2,
+        "text": "L'océan Pacifique. Il est le plus grand et le plus profond des océans de la planète.",
+        "choix": ["L'océan Atlantique", "L'océan Pacifique", "L'océan Indien", "L'océan Arctique"]
+    },"124": {
+        "question": "Qui a découvert la gravité en observant une pomme tomber d'un arbre ?",
+        "reponse": 4,
+        "text": "Isaac Newton. Sa fameuse observation de la pomme l'a mené à formuler la loi de la gravitation universelle.",
+        "choix": ["Galilée", "Albert Einstein", "Nikola Tesla", "Isaac Newton"]
+    },"125": {
+        "question": "Quel est le nom du dieu de la mer dans la mythologie grecque ?",
+        "reponse": 3,
+        "text": "Poséidon. Il est le dieu grec de la mer, des tempêtes et des tremblements de terre.",
+        "choix": ["Hadès", "Zeus", "Poséidon", "Apollon"]
+    },"126": {
+        "question": "Qui a écrit 'Le Petit Prince' ?",
+        "reponse": 3,
+        "text": "Antoine de Saint-Exupéry. Il est l'auteur du célèbre livre 'Le Petit Prince', publié en 1943.",
+        "choix": ["Victor Hugo", "Albert Camus", "Antoine de Saint-Exupéry", "Marcel Proust"]
+    },"127": {
+        "question": "Quel est le plus grand désert chaud du monde ?",
+        "reponse": 2,
+        "text": "Le Sahara. Il est le plus grand désert chaud du monde, couvrant une grande partie de l'Afrique du Nord.",
+        "choix": ["Le Kalahari", "Le Sahara", "Le désert d'Atacama", "Le désert d'Arabie"]
+    },"128": {
+        "question": "Quel est le nom de la première femme pilote à avoir traversé l'Atlantique ?",
+        "reponse": 4,
+        "text": "Amelia Earhart. Elle fut la première femme à réaliser cette traversée en 1928.",
+        "choix": ["Beryl Markham", "Jacqueline Auriol", "Harriet Quimby", "Amelia Earhart"]
+    },"129": {
+        "question": "Quel est l'inventeur du téléphone ?",
+        "reponse": 3,
+        "text": "Alexander Graham Bell. Il est crédité de l'invention du téléphone en 1876.",
+        "choix": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"]
+    },"130": {
+        "question": "Quelle est la capitale de l'Espagne ?",
+        "reponse": 3,
+        "text": "Madrid. C'est la capitale de l'Espagne, connue pour sa richesse culturelle et son histoire.",
+        "choix": ["Barcelone", "Séville", "Madrid", "Valence"]
+    },"131": {
+        "question": "Qui a peint 'Les Tournesols' ?",
+        "reponse": 1,
+        "text": "Vincent van Gogh. 'Les Tournesols' est une série de tableaux peints par van Gogh.",
+        "choix": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },"132": {
+        "question": "Quel est le nom de la montagne la plus haute du monde ?",
+        "reponse": 4,
+        "text": "L'Everest. Il est le plus haut sommet du monde, culminant à plus de 8 848 mètres d'altitude.",
+        "choix": ["Le Kilimandjaro", "Le Mont McKinley", "Le K2", "L'Everest"]
+    },"133": {
+        "question": "Qui a écrit 'La Divine Comédie' ?",
+        "reponse": 3,
+        "text": "Dante Alighieri. 'La Divine Comédie' est une œuvre majeure écrite par Dante au XIVe siècle.",
+        "choix": ["Geoffrey Chaucer", "William Shakespeare", "Dante Alighieri", "Homer"]
+    },"134": {
+        "question": "Quel est le plus grand fleuve du monde en termes de débit d'eau ?",
+        "reponse": 3,
+        "text": "L'Amazone. C'est le plus grand fleuve du monde en termes de débit d'eau.",
+        "choix": ["Le Nil", "Le Mississippi", "L'Amazone", "Le Yangzi Jiang"]
+    },"135": {
+        "question": "Quel est l'auteur de la pièce de théâtre 'Cyrano de Bergerac' ?",
+        "reponse": 3,
+        "text": "Edmond Rostand. 'Cyrano de Bergerac' est une pièce de théâtre écrite par Rostand en 1897.",
+        "choix": ["Molière", "Victor Hugo", "Edmond Rostand", "Jean Racine"]
+    },"136": {
+        "question": "Quel est le plus grand continent du monde ?",
+        "reponse": 4,
+        "text": "L'Asie. C'est le plus grand continent en termes de superficie et de population.",
+        "choix": ["L'Europe", "L'Amérique du Nord", "L'Afrique", "L'Asie"]
+    },"137": {
+        "question": "Qui a peint 'La Nuit étoilée' ?",
+        "reponse": 2,
+        "text": "Vincent van Gogh. 'La Nuit étoilée' est une célèbre peinture réalisée par van Gogh en 1889.",
+        "choix": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí"]
+    },"138": {
+        "question": "Quel est le plus grand lac d'eau douce au monde en termes de superficie ?",
+        "reponse": 2,
+        "text": "Le lac Supérieur. Il est le plus grand lac d'eau douce en termes de superficie.",
+        "choix": ["Le lac Baïkal", "Le lac Supérieur", "Le lac Victoria", "Le lac Michigan"]
+    },"139": {
+        "question": "Quel est l'auteur de la série de romans 'Harry Potter' ?",
+        "reponse": 3,
+        "text": "J.K. Rowling. Elle est l'auteure de la populaire série de romans 'Harry Potter'.",
+        "choix": ["Stephen King", "George R.R. Martin", "J.K. Rowling", "Terry Pratchett"]
+    },"140": {
+        "question": "Qui a peint 'Les Demoiselles d'Avignon' ?",
+        "reponse": 4,
+        "text": "Pablo Picasso. 'Les Demoiselles d'Avignon' est une œuvre majeure de Picasso.",
+        "choix": ["Vincent van Gogh", "Claude Monet", "Salvador Dalí", "Pablo Picasso"]
+    },"141": {
+        "question": "Quel est le plus grand mammifère terrestre ?",
+        "reponse": 2,
+        "text": "L'éléphant d'Afrique. Il est le plus grand mammifère terrestre actuel.",
+        "choix": ["Le rhinocéros blanc", "L'éléphant d'Afrique", "L'hippopotame", "Le girafe"]
+    },"142": {
+        "question": "Qui a écrit '1984' ?",
+        "reponse": 3,
+        "text": "George Orwell. '1984' est un célèbre roman écrit par Orwell en 1949.",
+        "choix": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "H.G. Wells"]
+    },"143": {
+        "question": "Quel est le plus grand carnivore terrestre ?",
+        "reponse": 3,
+        "text": "L'ours blanc. C'est le plus grand carnivore terrestre.",
+        "choix": ["Le lion", "Le tigre", "L'ours blanc", "Le léopard des neiges"]
+    },"144": {
+        "question": "Qui a découvert la pénicilline en 1928 ?",
+        "reponse": 1,
+        "text": "Alexander Fleming. Il est crédité de la découverte de la pénicilline.",
+        "choix": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Jonas Salk"]
+    },"145": {
+        "question": "Qui est l'auteur de la sculpture 'Le Penseur' ?",
+        "reponse": 4,
+        "text": "Auguste Rodin. 'Le Penseur' est une célèbre sculpture réalisée par Rodin.",
+        "choix": ["Michel-Ange", "Leonardo da Vinci", "Pablo Picasso", "Auguste Rodin"]
+    },"146": {
+        "question": "Quel est le plus grand océan du monde en termes de superficie ?",
+        "reponse": 3,
+        "text": "L'océan Pacifique. C'est le plus grand océan en termes de superficie.",
+        "choix": ["L'océan Atlantique", "L'océan Indien", "L'océan Pacifique", "L'océan Arctique"]
+    },"147": {
+        "question": "Qui a écrit 'Le Rouge et le Noir' ?",
+        "reponse": 2,
+        "text": "Stendhal. 'Le Rouge et le Noir' est un roman écrit par Stendhal en 1830.",
+        "choix": ["Gustave Flaubert", "Stendhal", "Victor Hugo", "Émile Zola"]
+    },"148": {
+        "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
+        "reponse": 2,
+        "text": "L'Amazone. C'est le plus long fleuve d'Amérique du Sud.",
+        "choix": ["Le Paraná", "L'Amazone", "Le Rio Grande", "Le Orénoque"]
+    },"149": {
+        "question": "Qui a écrit 'Le Tour du monde en quatre-vingts jours' ?",
+        "reponse": 3,
+        "text": "Jules Verne. 'Le Tour du monde en quatre-vingts jours' est un roman de Jules Verne.",
+        "choix": ["Alexandre Dumas", "Gustave Flaubert", "Jules Verne", "Victor Hugo"]
+    },"150": {
+        "question": "Quel est le plus grand organisme vivant sur Terre ?",
+        "reponse": 4,
+        "text": "Le réseau de champignons Armillaria ostoyae. C'est considéré comme le plus grand organisme vivant.",
+        "choix": ["L'éléphant d'Afrique", "Le séquoia géant", "Le récif corallien", "Le réseau de champignons Armillaria ostoyae"]
+    },"151": {
+        "question": "Quel est le plus grand désert de glace du monde ?",
+        "reponse": 2,
+        "text": "L'Antarctique. C'est le plus grand désert de glace du monde.",
+        "choix": ["L'Arctique", "L'Antarctique", "Le Groenland", "La Patagonie"]
+    },"152": {
+        "question": "Qui a écrit 'Le Mariage de Figaro' ?",
+        "reponse": 2,
+        "text": "Beaumarchais. 'Le Mariage de Figaro' est une comédie écrite par Beaumarchais.",
+        "choix": ["Molière", "Beaumarchais", "Voltaire", "Racine"]
+    },"153": {
+        "question": "Quel est le plus grand canyon du monde ?",
+        "reponse": 3,
+        "text": "Le Grand Canyon. C'est le plus grand canyon du monde, situé aux États-Unis.",
+        "choix": ["Le canyon de Colca", "Le canyon du Yarlung Tsangpo", "Le Grand Canyon", "Le canyon de la Fish River"]
+    },"154": {
+        "question": "Quelle est la capitale du Qatar ?",
+        "reponse": 3,
+        "text": "Doha. C'est la capitale du Qatar.",
+        "choix": ["Abu Dhabi", "Amman", "Doha", "Dubaï"]
+    },"155": {
+        "question": "Lequel de ces États ne fait pas partie de l’Union européenne ?",
+        "reponse": 4,
+        "text": "La Norvège. Elle n'est pas membre de l'Union européenne malgré des tentatives d'adhésion.",
+        "choix": ["Croatie", "Lituanie", "Malte", "Norvège"]
+    },"156": {
+        "question": "En France, quelle institution certifie les comptes de l’État ?",
+        "reponse": 2,
+        "text": "La Cour des comptes. C'est l'institution chargée de cette certification en France.",
+        "choix": ["La Cour de cassation", "La Cour des comptes", "Le Conseil constitutionnel", "Le Conseil d'État"]
+    },"157": {
+        "question": "En France, un projet de loi est une initiative législative :",
+        "reponse": 1,
+        "text": "gouvernementale inscrite à l'ordre du jour du Parlement.",
+        "choix": [
+          "gouvernementale inscrite à l'ordre du jour du Parlement.",
+          "gouvernementale qui génère automatiquement un référendum populaire.",
+          "parlementaire inscrite à l'ordre du jour du Parlement.",
+          "parlementaire qui entraîne systématiquement la réunion du Parlement en congrès à Versailles."
+        ]
+    },"158": {
+        "question": "En France, la loi du 1er juillet 1901 est relative :",
+        "reponse": 4,
+        "text": "aux associations. Cette loi régit le statut des associations en France.",
+        "choix": [
+          "à la laïcité.",
+          "à la séparation des Églises et de l’État.",
+          "au travail dominical.",
+          "aux associations."
+        ]
+    },"159": {
+        "question": "En France, le déficit public prévisionnel de l’État représente en 2015 environ :",
+        "reponse": 1,
+        "text": "4 % du PIB. Cette estimation correspondait au déficit prévu en 2015.",
+        "choix": ["4 % du PIB.", "20 % du PIB.", "52 % du PIB.", "90 % du PIB."]
+    },"160": {
+        "question": "En France, par qui est perçu l’impôt sur le revenu ?",
+        "reponse": 4,
+        "text": "la Direction générale des finances publiques. C'est l'organisme qui perçoit cet impôt.",
+        "choix": [
+          "la Direction du budget",
+          "la Direction générale du Trésor",
+          "la Direction générale des douanes et droits indirects",
+          "la Direction générale des finances publiques"
+        ]
+    },"161": {
+        "question": "En France, quel événement historique célèbre-t-on le 11 novembre ?",
+        "reponse": 1,
+        "text": "l’armistice de la Première Guerre mondiale. Cette date commémore la fin des combats de la Première Guerre mondiale.",
+        "choix": [
+          "l’armistice de la Première Guerre mondiale",
+          "l’armistice de la Seconde Guerre mondiale",
+          "l’institution de la Communauté économique européenne",
+          "le débarquement allié sur les plages de Normandie"
+        ]
+    },"162": {
+        "question": "Quel président américain a démissionné après le scandale du Watergate en 1974 ?",
+        "reponse": 4,
+        "text": "Richard Nixon. Il a démissionné suite au scandale du Watergate en 1974.",
+        "choix": [
+          "Dwight D. Eisenhower",
+          "George H. W. Bush",
+          "Gerald Ford",
+          "Richard Nixon"
+        ]
+    },"163": {
+        "question": "La convention internationale, dénommée « protocole de Kyoto », est un accord :",
+        "reponse": 4,
+        "text": "visant la réduction des émissions de gaz à effet de serre.",
+        "choix": [
+          "destiné à relancer la croissance dans le monde après la crise économique et financière de 1929.",
+          "mettant fin à la guerre de Corée.",
+          "prévoyant la capitulation de l’armée japonaise à la fin de la Seconde Guerre mondiale.",
+          "visant la réduction des émissions de gaz à effet de serre."
+        ]
+    },"164": {
+        "question": "Parmi ces quatre pièces de théâtre, laquelle n’a pas été écrite par Molière ?",
+        "reponse": 1,
+        "text": "Le Jeu de l’amour et du hasard. Cette pièce a été écrite par Marivaux, pas par Molière.",
+        "choix": [
+          "Le Jeu de l’amour et du hasard",
+          "Le Malade imaginaire",
+          "Le Tartuffe",
+          "Les Femmes savantes"
+        ]
+    },"165": {
+        "question": "Quelle est la capitale du Brésil ?",
+        "reponse": 1,
+        "text": "Brasilia. C'est la capitale du Brésil.",
+        "choix": [
+          "Brasilia",
+          "Rio de Janeiro",
+          "Salvador de Bahia",
+          "São Paulo"
+        ]
+    },"166": {
+        "question": "De ces quatre villes, laquelle est la plus orientale ?",
+        "reponse": 4,
+        "text": "Nice. La partie orientale d'un espace est la plus à l'est de ce territoire.",
+        "choix": [
+          "Besançon",
+          "Lyon",
+          "Nancy",
+          "Nice"
+        ]
+    },"167": {
+        "question": "Quelle autre ville française après Paris est dotée d’un Centre Pompidou ?",
+        "reponse": 2,
+        "text": "Metz. Le Centre Pompidou-Metz est une décentralisation du Centre Pompidou de Paris.",
+        "choix": [
+          "Lens",
+          "Metz",
+          "Nancy",
+          "Strasbourg"
+        ]
+    },"168": {
+        "question": "Comment sont actuellement désignés les conseillers communautaires auprès des établissements publics de coopération intercommunale (EPCI) ?",
+        "reponse": 1,
+        "text": "Au suffrage universel direct. Ils sont élus de la même manière que les conseillers municipaux.",
+        "choix": [
+          "Au suffrage universel direct.",
+          "Au suffrage universel indirect",
+          "Par décision du président du conseil communautaire",
+          "Par tirage au sort parmi les conseillers municipaux"
+        ]
+    },"169": {
+        "question": "Le Chemin des Dames est une bataille de :",
+        "reponse": 3,
+        "text": "La Première Guerre mondiale. La bataille du Chemin des Dames a eu lieu pendant la Première Guerre mondiale.",
+        "choix": [
+          "La guerre de Cent Ans",
+          "La guerre de 1870",
+          "La Première Guerre mondiale",
+          "La Seconde Guerre mondiale"
+        ]
+    },"170": {
+        "question": "La loi de séparation des Églises et de l’État a été adoptée en France en :",
+        "reponse": 3,
+        "text": "1905. La loi de séparation de l'Église et de l'État en France a été adoptée en 1905.",
+        "choix": [
+          "1805",
+          "1901",
+          "1905",
+          "1945"
+        ]
+    },"171": {
+        "question": "En France, la taxe foncière constitue un impôt perçu au profit :",
+        "reponse": 4,
+        "text": "Des collectivités territoriales. Elle contribue aux ressources fiscales des collectivités territoriales.",
+        "choix": [
+          "De la Sécurité sociale",
+          "De l'État",
+          "De l'Union européenne",
+          "Des collectivités territoriales"
+        ]
+    },"172": {
+        "question": "Quel est le point commun entre ces quatre personnalités ? Geneviève De Gaulle Anthonioz – Marie Curie – Germaine Tillion – Sophie Berthelot",
+        "reponse": 1,
+        "text": "Elles ont été choisies pour entrer au Panthéon. Toutes ont été choisies pour reposer au Panthéon.",
+        "choix": [
+          "Elles ont été choisies pour entrer au Panthéon.",
+          "Elles ont fait d'importantes découvertes scientifiques.",
+          "Elles ont occupé un portefeuille ministériel.",
+          "Elles se sont illustrées par des actes de résistance pendant la Seconde Guerre mondiale."
+        ]
+    },"173": {
+        "question": "Quelle est, en euros, la principale production agricole française ?",
+        "reponse": 2,
+        "text": "Les céréales. Elles constituent la principale production agricole en France.",
+        "choix": [
+          "Le lait",
+          "Les céréales",
+          "Les fruits et légumes",
+          "Les vins"
+        ]
+    },"174": {
+        "question": "Que signifie l’abréviation « Cedex » ?",
+        "reponse": 1,
+        "text": "Courrier d'entreprise à distribution exceptionnelle. C'est ce que signifie l'abréviation Cedex.",
+        "choix": [
+          "Courrier d'entreprise à distribution exceptionnelle",
+          "Courrier entre départements exclus",
+          "Courrier envoyé aux départements en exclusivité",
+          "Courrier exceptionnel distribué en express"
+        ]
+    },"175": {
+        "question": "Dans la série américaine « 24 heures chrono », quel est le nom du personnage principal ?",
+        "reponse": 1,
+        "text": "Jack Bauer. C'est le personnage principal de la série '24 heures chrono'.",
+        "choix": [
+          "Jack Bauer",
+          "Jack Ryan",
+          "Jack Sparrow",
+          "Jack Reachel"
+        ]
+    },"176": {
+        "question": "Qui a réalisé le film 2001 : l’Odyssée de l’espace ?",
+        "reponse": 3,
+        "text": "Stanley Kubrick. C'est Stanley Kubrick qui a réalisé ce film.",
+        "choix": [
+          "George Lucas",
+          "Luc Besson",
+          "Stanley Kubrick",
+          "Steven Spielberg"
+        ]
+    },"177": {
+        "question": "De quelle nationalité sont les membres du groupe Daft Punk ?",
+        "reponse": 4,
+        "text": "Française. Les membres du groupe Daft Punk sont de nationalité française.",
+        "choix": [
+          "Belge",
+          "Britannique",
+          "Canadienne",
+          "Française"
+        ]
+    },"178": {
+        "question": "Parmi ces quatre pièces de théâtre, laquelle n’a pas été écrite par Molière ?",
+        "reponse": 1,
+        "text": "Le Jeu de l’amour et du hasard. Cette pièce n'a pas été écrite par Molière, mais par Marivaux.",
+        "choix": [
+          "Le Jeu de l’amour et du hasard",
+          "Le Malade imaginaire",
+          "Le Tartuffe",
+          "Les Femmes savantes"
+        ]
+    },"179": {
+        "question": "Quelle est la capitale du Brésil ?",
+        "reponse": 1,
+        "text": "Brasilia. Brasilia est la capitale du Brésil.",
+        "choix": [
+          "Brasilia",
+          "Rio de Janeiro",
+          "Salvador de Bahia",
+          "São Paulo"
+        ]
+    },"180": {
+        "question": "De ces quatre villes, laquelle est la plus orientale ?",
+        "reponse": 4,
+        "text": "Nice. Parmi ces villes, Nice est la plus orientale.",
+        "choix": [
+          "Besançon",
+          "Lyon",
+          "Nancy",
+          "Nice"
+        ]
+    },"182": {
+        "question": "Comment sont actuellement désignés les conseillers communautaires auprès des établissements publics de coopération intercommunale (EPCI) ?",
+        "reponse": 1,
+        "text": "Au suffrage universel direct. Les conseillers communautaires sont actuellement désignés par le suffrage universel direct.",
+        "choix": [
+          "Au suffrage universel direct",
+          "Au suffrage universel indirect",
+          "Par décision du président du conseil communautaire",
+          "Par tirage au sort parmi les conseillers municipaux"
+        ]
+    },"183": {
+        "question": "Le Chemin des Dames est une bataille de :",
+        "reponse": 3,
+        "text": "La Première Guerre mondiale. Le Chemin des Dames est une bataille de la Première Guerre mondiale.",
+        "choix": [
+          "La guerre de Cent Ans",
+          "La guerre de 1870",
+          "La Première Guerre mondiale",
+          "La Seconde Guerre mondiale"
+        ]
+    },"184": {
+        "question": "La loi de séparation des Églises et de l’État a été adoptée en France en :",
+        "reponse": 3,
+        "text": "1905. La loi de séparation des Églises et de l’État a été adoptée en France en 1905.",
+        "choix": [
+          "1805",
+          "1901",
+          "1905",
+          "1945"
+        ]
+    },"185": {
+        "question": "En France, la taxe foncière constitue un impôt perçu au profit :",
+        "reponse": 4,
+        "text": "Des collectivités territoriales. La taxe foncière perçue en France est au profit des collectivités territoriales.",
+        "choix": [
+          "De la Sécurité sociale",
+          "De l’État",
+          "De l’Union européenne",
+          "Des collectivités territoriales"
+        ]
+    },"186": {
+        "question": "Quel président américain a démissionné après le scandale du Watergate en 1974 ?",
+        "reponse": 4,
+        "text": "Richard Nixon. C'est Richard Nixon qui a démissionné après le scandale du Watergate en 1974.",
+        "choix": [
+          "Dwight D. Eisenhower",
+          "George H. W. Bush",
+          "Gerald Ford",
+          "Richard Nixon"
+        ]
+    },"187": {
+        "question": "La convention internationale, dénommée « protocole de Kyoto », est un accord :",
+        "reponse": 4,
+        "text": "Visant la réduction des émissions de gaz à effet de serre. Le protocole de Kyoto vise la réduction des émissions de gaz à effet de serre.",
+        "choix": [
+          "Destiné à relancer la croissance dans le monde après la crise économique et financière de 1929",
+          "Mettant fin à la guerre de Corée",
+          "Prévoyant la capitulation de l’armée japonaise à la fin de la Seconde Guerre mondiale",
+          "Visant la réduction des émissions de gaz à effet de serre"
+        ]
+    },"188": {
+        "question": "Le scandale surnommé « l’affaire du collier », qui impacta la France, ternit la réputation de la reine :",
+        "reponse": 2,
+        "text": "Marie-Antoinette. L'affaire du collier a terni la réputation de Marie-Antoinette, reine de France.",
+        "choix": [
+          "Marie Ire Stuart",
+          "Marie-Antoinette",
+          "Margot",
+          "Catherine de Médicis"
+        ]
+    },"189": {
+        "question": "Quel endroit était la principale place publique administrative, religieuse et commerciale des villes grecques antiques ?",
+        "reponse": 2,
+        "text": "L’agora. L’agora était la principale place publique des villes grecques antiques.",
+        "choix": [
+          "L’acropole",
+          "L’agora",
+          "La boulê",
+          "Le forum"
+        ]
+    },"190": {
+        "question": "Quel est l’intrus parmi les propositions suivantes ?",
+        "reponse": 3,
+        "text": "Auguste et Jean Renoir. Auguste et Jean Renoir ne sont pas frères réalisateurs.",
+        "choix": [
+          "Joel et Ethan Coen",
+          "Jean-Pierre et Luc Dardenne",
+          "Auguste et Jean Renoir",
+          "Peter et Bobby Farrelly"
+        ]
+    },"191": {
+        "question": "Comment s’appelait l’atelier d’artistes ouvert par Andy Warhol à New York en 1964 ?",
+        "reponse": 3,
+        "text": "La Factory. L’atelier d’artistes ouvert par Andy Warhol à New York en 1964 s'appelait la Factory.",
+        "choix": [
+          "Le Pop’s Art",
+          "Le Velvet Underground",
+          "La Factory",
+          "L’Arsenal"
+        ]
+    },"192": {
+        "question": "Parmi ces sites, inscrits au patrimoine mondial de l’Unesco, lequel abrite un mausolée ?",
+        "reponse": 1,
+        "text": "Le Taj Mahal. Le Taj Mahal, inscrit au patrimoine mondial de l’Unesco, abrite un mausolée.",
+        "choix": [
+          "Le Taj Mahal",
+          "L’Alhambra",
+          "Persépolis",
+          "Pergame"
+        ]
+    },"193": {
+        "question": "Avec quel artiste la sculptrice Camille Claudel entretint-elle une relation ?",
+        "reponse": 2,
+        "text": "Auguste Rodin. Camille Claudel entretint une relation avec le sculpteur Auguste Rodin.",
+        "choix": [
+          "Henri Matisse",
+          "Auguste Rodin",
+          "Paul Gauguin",
+          "Alberto Giacometti"
+        ]
+    },"194": {
+        "question": "Lequel de ces pays n’a pas de façade maritime avec la mer Noire ?",
+        "reponse": 3,
+        "text": "L’Albanie. L’Albanie n’a pas de façade maritime avec la mer Noire.",
+        "choix": [
+          "La Bulgarie",
+          "La Géorgie",
+          "L’Albanie",
+          "L’Ukraine"
+        ]
+    },"195": {
+        "question": "Quelle institution vérifie la validité des candidatures présidentielles ?",
+        "reponse": 4,
+        "text": "Le Conseil constitutionnel. Le Conseil constitutionnel vérifie la validité des candidatures présidentielles.",
+        "choix": [
+          "L’Assemblée nationale",
+          "Le Sénat",
+          "La Cour des comptes",
+          "Le Conseil constitutionnel"
+        ]
+    },"196": {
+        "question": "Parmi ces compositeurs, lequel n’est pas contemporain des trois autres ?",
+        "reponse": 1,
+        "text": "Jean-Baptiste Lully. Jean-Baptiste Lully n'est pas contemporain des trois autres compositeurs.",
+        "choix": [
+          "Jean-Baptiste Lully",
+          "François Couperin",
+          "Francis Poulenc",
+          "Jean-Philippe Rameau"
+        ]
+    },"197": {
+        "question": "Quelle était à l’origine la fonction de Facebook ?",
+        "reponse": 4,
+        "text": "Un réseau social estudiantin. À l'origine, Facebook était un réseau social estudiantin.",
+        "choix": [
+          "Un site de rencontres",
+          "Un réseau social pour cuisinier",
+          "Un album photo en ligne",
+          "Un réseau social estudiantin"
+        ]
+    },"198": {
+        "question": "Les escargots entraînent le décès d'environ 100.000 personnes chaque année. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. L'escargot transmet un parasite appelé le schistosome, à l'origine de la schistosomiase (ou bilharziose), maladie chronique responsable de milliers de décès chaque année.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"199": {
+        "question": "Un éternuement peut avoir une vitesse de 160km/h. Vrai ou faux ?",
+        "reponse": 2,
+        "text": "Faux. D'après des études, la vitesse des éternuements est d'environ 16 km/h en moyenne, mais peut toutefois monter à 50 km/h.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"200": {
+        "question": "Il est possible pour une personne de vivre 3 semaines sans boire ni manger. Vrai ou faux ?",
+        "reponse": 2,
+        "text": "Faux. Le corps humain peut vivre environ 4 semaines sans nourriture, mais la durée de vie sans eau est d’une semaine seulement.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"201": {
+        "question": "Les cochons ont généralement la queue en tire-bouchon. Vrai ou faux ?",
+        "reponse": 2,
+        "text": "Faux. En bonne santé, un cochon a une queue droite. Il arrive cependant que dans certains cas rares, des cochons malades aient la queue en “tire-bouchon”, mais ce n'est pas la norme.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"202": {
+        "question": "Le mont Blanc est surnommé “le toit du monde”. Vrai ou faux ?",
+        "reponse": 2,
+        "text": "Faux. “Le toit du monde” est l’expression consacrée pour l’Everest. Le mont Blanc est “le toit de l’Europe”.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"203": {
+        "question": "Le Maroc et l'Espagne possèdent une frontière terrestre. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. Le Maroc possède 16 km de frontière terrestre commune avec l’Union européenne, via l’Espagne et les enclaves de Ceuta et Melilla.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"204": {
+        "question": "1 Litre de Coca-Cola classique contient 18 morceaux de sucre. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. 1 litre de Coca-Cola contient 108 g de sucre, soit environ 18 sucres classiques (5.95g).",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"205": {
+        "question": "Tous les tanks britanniques sont équipés pour boire le thé. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. Depuis 1945, les tanks britanniques ont une théière pour éviter aux soldats de sortir de la machine à l’heure du thé.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"206": {
+        "question": "Le Mont Saint-Michel appartient aujourd'hui à la Bretagne. Vrai ou faux ?",
+        "reponse": 2,
+        "text": "Faux. Le Mont-Saint-Michel appartient à la Normandie sans partage depuis 1009.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"207": {
+        "question": "Une grenouille peut pondre jusqu’à 1000 œufs par ponte. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. Une grenouille verte peut pondre jusqu'à 10 000 œufs et certaines espèces peuvent aller jusqu’à 20 000 œufs par ponte.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"208": {
+        "question": "Pour produire un pot de miel, les abeilles ont besoin d’environ 2 millions de fleurs. Vrai ou faux ?",
+        "reponse": 1,
+        "text": "Vrai. Une abeille produira dans toute sa vie l’équivalent de 1/12e de cuillère à café de miel.",
+        "choix": [
+          "Vrai",
+          "Faux"
+        ]
+    },"209": {
+        "question": "Le suffrage universel pour l'élection du Président de la République date de",
+        "reponse": 3,
+        "text": "C'est en 1962 que le suffrage universel a été instauré pour l'élection du Président de la République.",
+        "choix": [
+            "1832",
+            "1958",
+            "1962",
+            "1998"
+        ]
+    },"210": {
+        "question": "Dans l'expression CAC 40 que veut dire l'abréviation CAC :",
+        "reponse": 4,
+        "text": "CAC dans CAC 40 signifie 'cotation assistée en continu'.",
+        "choix": [
+            "cotation assidue en continu",
+            "contrôle annuel en continu",
+            "capacité assistée en continu",
+            "cotation assistée en continu"
+        ]
+    },"211": {
+        "question": "Quel écrivain français né en Algérie s'est rendu célèbre à la fin des années 50 pour ses prises de position politiques qui l'opposèrent aux communistes et à l'existentialisme de Sartre ?",
+        "reponse": 4,
+        "text": "Albert Camus est l'écrivain français né en Algérie connu pour ses prises de position politiques et ses œuvres comme La Peste, Caligula et l'homme révolté.",
+        "choix": [
+            "Raymond Aron",
+            "André Gide",
+            "Marcel Pagnol",
+            "Albert Camus"
+        ]
+    },"212": {
+        "question": "Qui proclama l'indépendance d'Israël le 14 mai 1948 ?",
+        "reponse": 1,
+        "text": "C'est Menahem Begin qui a proclamé l'indépendance d'Israël le 14 mai 1948.",
+        "choix": [
+            "Menahem Begin",
+            "Anouard El Sadate",
+            "Golda Meir",
+            "Franklin Roosevelt"
+        ]
+    },"213": {
+        "question": "Qui est l'actuel roi du Maroc ?",
+        "reponse": 3,
+        "text": "Mohammed VI est l'actuel roi du Maroc.",
+        "choix": [
+            "Hassan II",
+            "le Pacha de Marrakech",
+            "Mohammed VI"
+        ]
+    },"214": {
+        "question": "Quel est le plus petit Etat du monde ?",
+        "reponse": 4,
+        "text": "Le Vatican est le plus petit État du monde.",
+        "choix": [
+            "la principauté d'Andorre",
+            "la principauté de Monaco",
+            "la Yougoslavie",
+            "le Vatican"
+        ]
+    },"215": {
+        "question": "À quel organisme dont les initiales sont indiquées ci-dessous a été confiée la gestion des déchets radioactifs ?",
+        "reponse": 3,
+        "text": "La gestion des déchets radioactifs a été confiée à l'ANDRA.",
+        "choix": [
+            "ANRASEC",
+            "MMA",
+            "ANDRA",
+            "ANVAR"
+        ]
+    },"216": {
+        "question": "Qui a été champion du monde de Formule 1 en 2001 ?",
+        "reponse": 4,
+        "text": "Michael Schumacher a été champion du monde de Formule 1 en 2001.",
+        "choix": [
+            "Gilles Villeneuve",
+            "Jacques Laffite",
+            "Alain Prost",
+            "Michael Schumacher"
+        ]
+    },"217": {
+        "question": "Quand a été créée l'ONU ?",
+        "reponse": 3,
+        "text": "L'ONU a été créée en 1945.",
+        "choix": [
+            "1914",
+            "1939",
+            "1945",
+            "1951"
+        ]
+    },"218": {
+        "question": "La France a gardé une dizaine de possessions outre-mer, parmi celles-ci lesquelles sont des TOM ?",
+        "reponse": 2,
+        "text": "Wallis et Futuna sont des TOM (Territoires d'outre-mer) français.",
+        "choix": [
+            "Mayotte",
+            "Wallis et Futuna",
+            "Guyane",
+            "La Réunion"
+        ]
+    },"219": {
+        "question": "En France la majorité à 18 ans a été votée en",
+        "reponse": 3,
+        "text": "La majorité à 18 ans a été votée en France en 1974.",
+        "choix": [
+            "1968",
+            "1970",
+            "1974",
+            "1981"
+        ]
+    },"220": {
+        "question": "Quelle est la plus grande île du globe ?",
+        "reponse": 4,
+        "text": "Le Groenland est la plus grande île du globe.",
+        "choix": [
+            "la Corse",
+            "la Sardaigne",
+            "Bornéo",
+            "le Groenland"
+        ]
+    },"221": {
+        "question": "Quel est le plus grand département français (France métropolitaine) ?",
+        "reponse": 4,
+        "text": "La Gironde est le plus grand département français en France métropolitaine.",
+        "choix": [
+            "le Loiret",
+            "les Yvelines",
+            "la Seine-et-Oise",
+            "la Gironde"
+        ]
+    },"222": {
+        "question": "Quel(le) souverain(e) a fêté récemment son jubilé d'Or?",
+        "reponse": 3,
+        "text": "Elisabeth II du Royaume-Uni a récemment célébré son jubilé d'Or, marquant 50 ans de règne.",
+        "choix": [
+            "Béatrix des Pays-Bas",
+            "Carl-Gustav de Suède",
+            "Elisabeth II du Royaume-Uni",
+            "Juan Carlos d'Espagne"
+        ]
+    },"223": {
+        "question": "Parmi ces régions françaises quelle est celle dont la population est la plus faible ?",
+        "reponse": 3,
+        "text": "Le Limousin est la région française ayant la population la plus faible parmi celles proposées.",
+        "choix": [
+            "Languedoc-Roussillon",
+            "Basse-Normandie",
+            "Limousin",
+            "Auvergne"
+        ]
+    },"224": {
+        "question": "Combien de pays sont limitrophes de la Suisse?",
+        "reponse": 3,
+        "text": "La Suisse partage ses frontières avec 5 pays voisins.",
+        "choix": [
+            "2",
+            "4",
+            "5",
+            "7"
+        ]
+    },"225": {
+        "question": "De quel département la ville d'Aubenas est-elle le chef-lieu ?",
+        "reponse": 1,
+        "text": "Aubenas est le chef-lieu de l'Ardèche, un département français.",
+        "choix": [
+            "l'Ardèche",
+            "la Corrèze",
+            "la Somme",
+            "le Gers"
+        ]
+    },"226": {
+        "question": "De quel département la ville de Blois est-elle le chef-lieu ?",
+        "reponse": 3,
+        "text": "Blois est le chef-lieu du Loir-et-Cher, un département français.",
+        "choix": [
+            "la Haute-Loire",
+            "le Loiret",
+            "le Loir-et-Cher",
+            "l'Eure-et-Loir"
+        ]
+    },"227": {
+        "question": "Quel est le chef-lieu des Pyrénées-Orientales ?",
+        "reponse": 3,
+        "text": "Perpignan est le chef-lieu des Pyrénées-Orientales, un département français.",
+        "choix": [
+            "Toulouse",
+            "Narbonne",
+            "Perpignan",
+            "Béziers"
+        ]
+    },"228": {
+        "question": "Parmi ces vainqueurs du tour de France, lequel a porté le maillot jaune pendant la totalité du tour ?",
+        "reponse": 4,
+        "text": "Jacques Anquetil a été le vainqueur du Tour de France ayant porté le maillot jaune pendant toute la course.",
+        "choix": [
+            "Miguel Indurain",
+            "Laurent Fignon",
+            "Bernard Hinault",
+            "Jacques Anquetil"
+        ]
+    },"229": {
+        "question": "Combien de fois la France a-t-elle organisé les Jeux Olympiques d'hiver?",
+        "reponse": 2,
+        "text": "La France a organisé les Jeux Olympiques d'hiver à trois reprises.",
+        "choix": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },"230": {
+        "question": "Que signifient les initiales CNC ?",
+        "reponse": 3,
+        "text": "CNC fait référence au 'Centre National de la Cinématographie'.",
+        "choix": [
+            "Centre National de Conférence",
+            "Conseil National de Communication",
+            "Centre National de la Cinématographie",
+            "Conseil National des Consommateurs"
+        ]
+    },"231": {
+        "question": "Catherine Allégret est-elle la fille de Simone Signoret et Yves Montand ?",
+        "reponse": 2,
+        "text": "Non, Catherine Allégret n'est pas la fille de Simone Signoret et Yves Montand.",
+        "choix": [
+            "Vrai",
+            "Faux"
+        ]
+    },"232": {
+        "question": "Quel peintre a inventé le cubisme ?",
+        "reponse": 4,
+        "text": "Pablo Picasso est le peintre à l'origine du mouvement artistique du cubisme.",
+        "choix": [
+            "Jean Renoir",
+            "Georges Cubitus",
+            "Salvator Dali",
+            "Pablo Picasso"
+        ]
+    },"233": {
+        "question": "Quel était le nom d'Hergé ?",
+        "reponse": 2,
+        "text": "Hergé était connu sous le nom de Georges Rémi.",
+        "choix": [
+            "Georges Paul",
+            "Georges Rémi",
+            "Georges Bernanos",
+            "Georges Henry"
+        ]
+    },"234": {
+        "question": "En 2001, quel sportif français a été nommé 'champion de l'UNESCO' pour la jeunesse?",
+        "reponse": 1,
+        "text": "David Douillet a reçu le titre de 'champion de l'UNESCO' pour la jeunesse en 2001.",
+        "choix": [
+            "David Douillet",
+            "David Trézéguet",
+            "Alain Prost",
+            "Zinedine Zidane"
+        ]
+    },"235": {
+        "question": "En 1980, qui a été la première femme élue à l'Académie Française ?",
+        "reponse": 4,
+        "text": "Marguerite Yourcenar a été la première femme élue à l'Académie Française en 1980.",
+        "choix": [
+            "Jeanne Hachette",
+            "Sœur Térésa",
+            "Simone Veil",
+            "Marguerite Yourcenar"
+        ]
+    },"236": {
+        "question": "Qu'est-ce que le CSA ?",
+        "reponse": 4,
+        "text": "Le CSA, ou conseil supérieur de l'audiovisuel, est une institution régulant le secteur audiovisuel en France.",
+        "choix": [
+            "Conseil Supérieur de l'Agriculture",
+            "Comité Social Agricole",
+            "Comité Supérieur de l'Audiovisuel",
+            "Conseil Supérieur de l'Audiovisuel"
+        ]
+    },"238": {
+        "question": "André Malraux a été :",
+        "reponse": 1,
+        "text": "André Malraux a été ministre sous la présidence du Général de Gaulle.",
+        "choix": [
+            "Ministre sous la présidence du Général de Gaulle",
+            "Sportif",
+            "Sculpteur",
+            "Chanteur"
+        ]
+    },"239": {
+        "question": "Depuis la loi dite 'Chevènement' de 1999, quel est le nouveau type d'établissement public de coopération intercommunal?",
+        "reponse": 2,
+        "text": "Depuis la loi 'Chevènement', le nouveau type d'établissement public de coopération intercommunale est la communauté d'agglomération.",
+        "choix": [
+            "Le service départemental d'incendie et de secours",
+            "La communauté d'agglomération",
+            "La communauté de communes",
+            "Le district"
+        ]
+    },"240": {
+        "question": "Quel est le nom de l'actuel président du parlement européen?",
+        "reponse": 2,
+        "text": "L'actuel président du parlement européen est Pat Cox.",
+        "choix": [
+            "Nicole Fontaine",
+            "Pat Cox",
+            "Jacques Delors",
+            "Jean Matteoli"
+        ]
+    },"241": {
+        "question": "Que veut dire PACS ?",
+        "reponse": 3,
+        "text": "PACS signifie 'Pacte Civil de Solidarité'.",
+        "choix": [
+            "Partie civile de solidarité",
+            "Parité au conseil supérieur",
+            "Pacte civil de solidarité",
+            "Plan autonome de choix stratégiques"
+        ]
+    },"242": {
+        "question": "Le PACS est signé entre:",
+        "reponse": 3,
+        "text": "Le PACS est signé entre deux adultes ne souhaitant pas forcément se marier.",
+        "choix": [
+            "Un chef d'entreprise et son employé",
+            "Un représentant d'une administration et un fonctionnaire",
+            "Deux frères et soeurs",
+            "Deux adultes"
+        ]
+    },"243": {
+        "question": "Quelle est l'institution française qui s'est réunie pour la première fois en 1999 ?",
+        "reponse": 2,
+        "text": "En 1999, c'est la cour de justice de la République qui s'est réunie pour la première fois.",
+        "choix": [
+            "Le conseil supérieur de la magistrature",
+            "Le conseil économique et social",
+            "La cour de justice de la République"
+        ]
+    },"244": {
+        "question": "Le prix Nobel de la paix en 1999 a été décerné à :",
+        "reponse": 4,
+        "text": "En 1999, le prix Nobel de la paix a été décerné à médecins sans frontières.",
+        "choix": [
+            "Anouar El Sadate",
+            "Jean-Paul II",
+            "Sapeurs-pompiers du monde",
+            "Médecins sans frontières"
+        ]
+    },"246": {
+        "question": "Le nouveau code des marchés publics est entré en vigueur le:",
+        "reponse": 4,
+        "text": "Le nouveau code des marchés publics est entré en vigueur le 8 septembre 2001.",
+        "choix": [
+            "2 juin 1999",
+            "1er janvier 2001",
+            "4 juillet 2001",
+            "8 septembre 2001"
+        ]
+    },"247": {
+        "question": "Qui appelle-t-on 'le père de la Constitution de 1958' ?",
+        "reponse": 2,
+        "text": "Michel Debré est appelé 'le père de la Constitution de 1958'.",
+        "choix": [
+            "Jean-Louis Debré",
+            "Michel Debré",
+            "Bernard Debré",
+            "Charles de Gaulle"
+        ]
+    },"248": {
+        "question": "Jack Lang a été:",
+        "reponse": 3,
+        "text": "Jack Lang a été ministre de la culture.",
+        "choix": [
+            "Maire de Châteauroux",
+            "Maire d'Amboise",
+            "Ministre de la culture",
+            "Ministre de l'éducation physique et sportive"
+        ]
+    },"249": {
+        "question": "Jean-Pierre Raffarin a été président de la région :",
+        "reponse": 2,
+        "text": "Jean-Pierre Raffarin a été président de la région Poitou-Charantes",
+        "choix": [
+            "Provence-Alpes-Côtes-d'Azur",
+            "Poitou-Charentes",
+            "Rhône-Alpes",
+            "AUCUNE RÉPONSE NE CONVIENT"
+        ]
+    },"250": {
+        "question": "Nicolas Sarkozy a été:",
+        "reponse": 3,
+        "text": "Nicolas Sarkozy a été maire de Neuilly-sur-Seine.",
+        "choix": [
+            "Maire de Neuilly-Plaisance",
+            "Ministre de l'agriculture",
+            "Maire de Neuilly-sur-Seine"
+        ]
+    },"251": {
+        "question": "Le président de la Ré",
+        "reponse": 2,
+        "text": "Le président de la République est élu au scrutin uninominal majoritaire à deux tours.",
+        "choix": [
+            "De liste majoritaire",
+            "Uninominal majoritaire à deux tours",
+            "Proportionnel"
+        ]
+    },"252": {
+        "question": "Si le président démissionne ou décède en cours de mandat, l'intérim est assuré parle:",
+        "reponse": 3,
+        "text": "Si le président démissionne ou décède en cours de mandat, l'intérim est assuré par le président du Sénat.",
+        "choix": [
+            "Premier ministre",
+            "Ministre du budget",
+            "Président de l'Assemblée nationale",
+            "Président du Sénat"
+        ]
+    },"253": {
+        "question": "Les pouvoirs exceptionnels du président de la République sont:",
+        "reponse": 1,
+        "text": "Les pouvoirs exceptionnels du président de la République sont les pleins pouvoirs en vertu de l'article 16.",
+        "choix": [
+            "Les pleins pouvoirs en vertu de l'article 16",
+            "La nomination des ministres",
+            "La nomination des membres du conseil constitutionnel",
+            "Le recours au référendum"
+        ]
+    }
+}

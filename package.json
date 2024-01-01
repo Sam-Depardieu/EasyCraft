@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "canvacord": "^5.4.10",
+    "canvas": "^2.11.2",
+    "cli-color": "^2.0.3",
+    "discord-canvas": "^1.5.2",
+    "discord.js": "^13.17.1",
+    "dotenv": "16.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "7.2.0",
+    "mongoose": "6.2.3",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.2",
+    "vinted-api": "^2.9.1"
+  },
+  "name": "bot_tristan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

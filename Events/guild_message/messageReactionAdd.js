@@ -1,7 +1,7 @@
 module.exports = {
     name: 'messageReactionAdd',
     once: false,
-    async execute(client, message) {
-        
+    async execute(client, message, reaction) {
+
     }
 }

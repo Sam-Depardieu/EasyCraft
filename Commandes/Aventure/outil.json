@@ -1,31 +1,44 @@
 {
     "piocheB":
     {
-        "icon":0,
-        "dura":0,
-        "type":0,
-        "degat":0,
-        "silkTouch":false,
-        "mineLvl":["pierre","charbon",""]
+        "lvlMin":0,
+        "lvlMax":10,
+        "mine":{"min": 0, "max": 5},
+        "mineLvl":{"pierre":90,"charbon":10}
     },
     "piocheP":
     {
-
-    },
-    "PiocheF":
-    {
-
+        "lvlMin":11,
+        "lvlMax":20,
+        "mine":{"min": 5, "max": 10},
+        "mineLvl":{"pierre":75,"charbon":13,"fer":7,"lapis-lazuli":5}
     },
     "PiocheO":
     {
-
+        "lvlMin":21,
+        "lvlMax":30,
+        "mine":{"min": 10, "max": 15},
+        "mineLvl":{"pierre":80,"charbon":15,"fer":5}
+    },
+    "PiocheF":
+    {
+        "lvlMin":31,
+        "lvlMax":50,
+        "mine":{"min": 15, "max": 25},
+        "mineLvl":{"pierre":53,"charbon":15,"fer":10,"lapis-lazuli":7,"or":8,"diamant":2,"emeraude":3,"redstone":2}
     },
     "PiocheD":
     {
-
+        "lvlMin":51,
+        "lvlMax":80,
+        "mine":{"min": 25, "max": 40},
+        "mineLvl":{"pierre":40,"charbon":20,"fer":15,"or":10,"diamant":5,"netherite":1,"emeraude":5,"redstone":4}
     },
     "PiocheN":
     {
-
+        "lvlMin":81,
+        "lvlMax":100,
+        "mine":{"min": 40, "max": 50},
+        "mineLvl":{"pierre":30,"charbon":20,"fer":15,"or":13,"diamant":10,"netherite":5,"emeraude":3,"redstone":4}
     }
 }

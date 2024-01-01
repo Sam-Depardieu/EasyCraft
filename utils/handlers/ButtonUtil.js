@@ -6,8 +6,6 @@ var clc = require("cli-color");
 module.exports = async client => {
     (await pGlob(`${process.cwd()}/buttons/*/*.js`)).map(async btmFile => {
         const btm = require(btmFile);
-
-
         if (!btm.name) {
             return console.log(clc.red(`-----\nCommande non chargée: pas de nom et/ou description \nFichier -> ${btmFile}\n-----`));
         };

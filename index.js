@@ -1,10 +1,16 @@
 const { Client, Collection, Intents } = require('discord.js');
 const client = new Client({ intents: [
-    Intents.FLAGS.GUILDS,
-    Intents.FLAGS.GUILD_MESSAGES,
-    Intents.FLAGS.GUILD_MESSAGE_REACTIONS,
-    Intents.FLAGS.GUILD_MEMBERS,
-    Intents.FLAGS.GUILD_INTEGRATIONS
+  Intents.FLAGS.GUILDS,
+  Intents.FLAGS.GUILD_MESSAGES,
+  Intents.FLAGS.GUILD_MESSAGE_REACTIONS,
+  Intents.FLAGS.GUILD_MEMBERS,
+  Intents.FLAGS.GUILD_INTEGRATIONS,
+  Intents.FLAGS.GUILD_BANS,
+  Intents.FLAGS.GUILD_INVITES,
+  Intents.FLAGS.GUILD_PRESENCES,
+  Intents.FLAGS.DIRECT_MESSAGES,
+  Intents.FLAGS.AUTO_MODERATION_EXECUTION,
+  Intents.FLAGS.AUTO_MODERATION_CONFIGURATION
   ],});
 const dotenv = require('dotenv');
 var clc = require("cli-color");
@@ -17,14 +23,14 @@ client.buttons = new Collection();
 ['CommandUtil', 'EventUtil', 'ButtonUtil'].forEach(handler => { require(`./utils/handlers/${handler}`)(client) });
 require('./utils/functions')(client);
 
-process.on('exit', code => { console.log(clc.red(`Le processus s'est arrêté avec le code: ${code}!`)) });
+/*process.on('exit', code => { console.log(clc.red(`Le processus s'est arrêté avec le code: ${code}!`)) });
 
 process.on('uncaughtException', (err, origin) => { console.log(clc.red(`UNCAUGHT_EXCEPTION: ${err}`, `Origine: ${origin}`)) });
 
 process.on('unhandledRejection', (reason, promise) =>  { console.log(clc.red(`UNHANDLED_REJECTION: ${reason}\n-----\n`, promise)) });
 
 process.on('warning', (...args) => console.log(clc.red(...args)));
-
+*/
 mongoose.connect(process.env.URI , {
     autoIndex: false,
     maxPoolSize: 10,

@@ -148,8 +148,4 @@ module.exports = client => {
         }
         return joueurData.updateOne(settings);
     }
-    
-    client.getHead = async (nickname) => {
-        return `https://minotar.net/avatar/${nickname}/32.png`;
-    }
 }
