@@ -20,7 +20,7 @@ module.exports = {
       .setTimestamp()
       .setFooter({text:message.author.username, value:message.author.displayAvatarURL()});
 
-    if(client.getGuild(message.guild).logChannelID != '0') client.channels.cache.get(client.getGuild(message.guild).logChannelID).send(embed)
+    if(client.getGuild(message.guild).logChannelID != undefined) client.channels.cache.get(client.getGuild(message.guild).logChannelID).send(embed)
     message.channel.send({ embeds: [embed] })
   }
 };

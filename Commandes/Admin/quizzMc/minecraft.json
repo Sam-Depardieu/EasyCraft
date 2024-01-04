@@ -1,0 +1,38 @@
+{
+    "1": {
+        "question": "Quel est le mob le plus petit de Minecraft ? (en hauteur)",
+        "reponse": 4,
+        "text": "Le têtard est en effet le plus petit mob de Minecraft (0,4 block).",
+        "choix": ["Bébé tortue","Endermite","Pufferfish","Têtard"]
+    },
+    "2":{
+        "question": "En combien de temps à été créé Minecraft ?",
+        "reponse": 3,
+        "text": "Notch a seulement mis six jours à partir du 10 mai 2009 pour créer Minecraft.",
+        "choix": ["9 jours","6 mois","6 jours","6 semaines"]
+    },
+    "3":{
+        "question": "La version initiale de Minecraft a été créée en 6 jours, mais combien de temps a-t-il fallu pour développer la version finale du jeu ?",
+        "reponse": 1,
+        "text": "D'abord sorti en Alpha, puis longtemps resté en Beta, vous avez dû en réalité attendre 2 ans avant de voir la version finale de Minecraft sur PC.",
+        "choix": ["2 ans","14 ans","1 an","Pas encore sortie"]
+    },
+    "4":{
+        "question": "Quel est le bloc qui n'apparait pas naturellement sur Minecraft ? ",
+        "reponse": 4,
+        "text": "Les ruches d'abeilles n'apparaissent pas naturellement, c'est un piège car les nids d'abeilles, eux, apparaissent naturellement.",
+        "choix": ["Le bloc de diamant","La terre cuite émaillée violette","Le bloc de vitre","Les ruches d'abeilles"]
+    },
+    "5":{
+        "question": "Les creeper sont nés grâce à une erreur de codage d'un mob, quel est ce mob? ",
+        "reponse": 4,
+        "text": " En voulant créer un cochon, Notch s'est trompé en saisissant des chiffres concernant la hauteur et la longueur, ce qui a créé le creeper",
+        "choix": ["Une vache","Un cochon","Une chauve-souris","Un mouton"]
+    },
+    "6":{
+        "question": "Quel nom de nametag ne change pas la manière d'être de certains mob ? ",
+        "reponse": 4,
+        "text": "Le nametag \"jeb\" ne change rien aux mobs, c'est \"jeb_\" qui permet de mettre un effet arc-en-ciel sur la laine des moutons",
+        "choix": ["jeb","Johnny","Dinnerbone","Toast"]
+    }
+}

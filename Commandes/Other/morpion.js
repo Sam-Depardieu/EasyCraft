@@ -58,7 +58,7 @@ module.exports = {
         const joueur1 = message.author;
         const joueur2 = message.mentions.users.first();
 
-        if(joueur1 === joueur2 || !joueur2) return message.channel.send("Ne jouez pas tout seul, c'est triste 😢")
+        //if(joueur1 === joueur2 || !joueur2) return message.channel.send("Ne jouez pas tout seul, c'est triste 😢")
         let game = true;
 
         const msg = await message.channel.send({content: `${joueur1.username} VS ${joueur2.username}`, components: [ligne1,ligne2,ligne3]})
@@ -75,8 +75,8 @@ module.exports = {
     
             collector.on('collect', async interaction => {
                 components = ligne1.components.concat(ligne2.components, ligne3.components)
-                if (interaction.user.id !== joueur1.id && interaction.user.id !== joueur2.id) return message.reply({ content: "Vous n'êtes pas invité à jouer.", ephemeral: true });
-                if ((interaction.user.id === joueur1.id && joueur === 0) || (interaction.user.id === joueur2.id && joueur === 1)) return message.reply({ content: "Ce n'est pas à vous de jouer.", ephemeral: true });
+                if (interaction.user.id !== joueur1.id && interaction.user.id !== joueur2.id) return interaction.reply({ content: "Vous n'êtes pas invité à jouer.", ephemeral: true });
+                if ((interaction.user.id === joueur1.id && joueur === 0) || (interaction.user.id === joueur2.id && joueur === 1)) return interaction.reply({ content: "Ce n'est pas à vous de jouer.", ephemeral: true });
                 const choice = interaction.customId;
                 let currentButton = 0;
     
@@ -127,8 +127,8 @@ module.exports = {
                 }
                 if(components.every(button => button.disabled))
                 { 
-                    collector.stop();
                     egality = true;
+                    collector.stop();
                 }
                 joueur = (joueur===1 ? 0 : 1);
             })

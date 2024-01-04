@@ -4,9 +4,7 @@
         "question":"Quel célèbre dictateur dirigea l'URSS du milieu des années 1920 à 1953 ?",
         "reponse":4,
         "text":"Joseph Staline (1878-1953), de son vrai nom Iossif Vissarionovitch Djougachvili, a dirigé l'Union des républiques socialistes soviétiques, en occupant diverses fonctions (en tant que secrétaire général du comité centrale du parti communiste notamment). Après la mort de Lénine (1870-1924), le fondateur de l'URSS, il sut éliminer ses rivaux politiques, Trotski (1879-1940) au premier titre.",
-        "choix":[
-            "Lénine","Trotski","Molotov","Staline"
-        ]
+        "choix":["Lénine","Trotski","Molotov","Staline"]
     },"1":{
         "question":"Dans quel pays peut-on trouver la Catalogne, l'Andalousie et la Castille ?",
         "reponse":4,
@@ -77,23 +75,17 @@
         "question":"On dit qu'un cheval…",
         "reponse":1,
         "text":"On dit qu'un cheval hennit. Le hennissement est le cri caractéristique des chevaux.",
-        "choix":[
-            "hennit","blatère","hurle","rugit"
-        ]
+        "choix":["hennit","blatère","hurle","rugit"]
     },"15":{
         "question":"Où se situe l'Oural ?",
         "reponse":4,
         "text":"L'Oural est une chaîne de montagnes qui se trouve en Russie, marquant la frontière naturelle entre l'Europe et l'Asie.",
-        "choix":[
-            "En Turquie","En Ukraine","En Chine","En Russie"
-        ]
+        "choix":["En Turquie","En Ukraine","En Chine","En Russie"]
     },"16":{
         "question":"Parmi les hommes politiques suivants, lequel a pris le pouvoir à partir de 1959 à Cuba ?",
         "reponse":4,
         "text":"Fidel Castro (1926-2016) a pris le pouvoir à Cuba à partir de 1959, menant la révolution cubaine et établissant un régime communiste à Cuba.",
-        "choix":[
-            "Hugo Chavez","Che Guevara","Fulgencio Batista","Fidel Castro"
-        ]
+        "choix":[ "Hugo Chavez","Che Guevara","Fulgencio Batista","Fidel Castro"]
     },"17":{
         "question":"Pour quel groupe « vivons-nous tous dans un sous-marin jaune » ?",
         "reponse":4,

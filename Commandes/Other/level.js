@@ -99,10 +99,13 @@ module.exports = {
     
         // Envoie l'image dans le canal Discord
         try{
-            interaction.reply({ files : [new MessageAttachment(rankCard, 'rank.png')]});
+            await interaction.deferReply();
+            
+            await interaction.editReply({ files : [new MessageAttachment(rankCard, 'rank.png')]});
         }catch(err)
         {
-            interaction.user.send(`Erreur lors de la génération de votre image level, essayez la commande ${await client.getGuild(interaction.user.guild).prefix}level`)
+            const guildSettings = await client.getGuild(interaction.member.guild);
+            interaction.user.send(`Erreur lors de la génération de votre image level, essayez la commande ${guildSettings.prefix}level`)
         }
     }
 };

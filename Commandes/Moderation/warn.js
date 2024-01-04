@@ -31,7 +31,7 @@ module.exports = {
             .setFooter({text: message.author.username, value: message.author.displayAvatarURL()});
 
         fs.writeFileSync('./Commandes/Moderation/warns.json', JSON.stringify(warns));
-        if(client.getGuild(message.guild).logChannelID != '0') client.channels.cache.get(client.getGuild(message.guild).logChannelID).send(embed);
+        if(client.getGuild(message.guild).logChannelID != undefined) client.channels.cache.get(client.getGuild(message.guild).logChannelID).send(embed);
         message.channel.send(member + " a été warn pour " + reason + " :white_check_mark:");
     }
 }

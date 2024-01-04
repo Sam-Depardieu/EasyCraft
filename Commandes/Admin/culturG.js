@@ -1,8 +1,8 @@
 const { MessageEmbed, MessageActionRow, MessageButton } = require('discord.js');
 const ms = require('ms');
-const cg = require('./quiz/question.json');
-const cls = require('./quiz/classement.json')
-const nb = require('./quiz/nbrQ.json')
+const cg = require('./cg/question.json');
+const cls = require('./cg/classement.json')
+const nb = require('./cg/nbrQ.json')
 const fs = require('fs')
 
 module.exports = {
@@ -35,7 +35,7 @@ module.exports = {
                     const question = cg[randomQ];
 
                     nb['nbr'].numero+=1;
-                    fs.writeFile("./Commandes/admin/quiz/nbrQ.json", JSON.stringify(nb), (err) => {
+                    fs.writeFile("./Commandes/admin/cg/nbrQ.json", JSON.stringify(nb), (err) => {
                         if(err) console.log(err);
                     })
 
@@ -98,14 +98,14 @@ module.exports = {
                                         win : 1
                                         
                                     }
-                                    fs.writeFile("./Commandes/admin/quiz/classement.json", JSON.stringify(cls), (err) => {
+                                    fs.writeFile("./Commandes/admin/cg/classement.json", JSON.stringify(cls), (err) => {
                                         if(err) console.log(err);
                                     })
                                 }
                                 else
                                 {
                                     cls[user.id]["win"]+=1;
-                                    fs.writeFile("./Commandes/admin/quiz/classement.json", JSON.stringify(cls), (err) => {
+                                    fs.writeFile("./Commandes/admin/cg/classement.json", JSON.stringify(cls), (err) => {
                                         if(err) console.log(err);
                                     })
                                 }

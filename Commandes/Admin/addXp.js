@@ -14,22 +14,8 @@ module.exports = {
         if(!memberSettings) {
             return message.channel.send(`Le membre ${member.user.username} n'est pas renseigné dans la base de données.`);
         }
-
-        let xpNow = memberSettings.exp + xpToAdd; // Calcul de la nouvelle quantité d'expérience
-
-        let nextLevel = 0;
         let level = memberSettings.lvl;
-
-        while (xpNow >= memberSettings.nextExpReq) {
-            level++;
-            xpNow -= memberSettings.nextExpReq;
-            if(level <= 15) nextLevel = 2 * (level + 1) + 14;
-            else if(level <= 30) nextLevel = 5 * level - 19;
-            else if(level > 30) nextLevel = 9 * level - 79;
-        }
-
-        // Mise à jour des données de l'utilisateur avec le nouveau niveau et l'expérience
-        await client.updateUser(member, { lvl: level, exp: xpNow, expTotal: memberSettings.expTotal + xpToAdd });
+        memberSettings = await client.updateXp(member, xpToAdd);
 
         message.channel.send(`Ajout de ${xpToAdd} points d'expérience à ${member.user.username}.`);
         if (level > memberSettings.lvl) {
