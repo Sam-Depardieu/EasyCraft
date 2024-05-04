@@ -37,7 +37,7 @@ module.exports = {
             .setProgressBar('#FFA500', 'COLOR')
             .setUsername(user.username)
             .setDiscriminator(userData.pseudo)
-            .setBackground('IMAGE', 'https://media.discordapp.net/attachments/1092086831077658755/1182417948447612928/ciel.png?ex=65849f87&is=65722a87&hm=7bfb1b921a5c0e2556a9589b4aa0a3de161819058fa219db9a2cbc3675a62ea0&=&format=webp&quality=lossless&width=1440&height=532'); // Ajoute un arrière-plan (remplace l'URL DE L'IMAGE par l'URL de ton image Canva)
+            .setBackground('IMAGE', 'img/ciel.png');
         
         /*member.guild.channels.cache.get('1178306392176730193').send();*/
         if (user.banner) {

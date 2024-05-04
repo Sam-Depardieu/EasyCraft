@@ -12,7 +12,8 @@ module.exports = {
     async run(client, message, args) {
         message.delete()
         
-        let randomQ = nb['nbr'].numero        
+        let randomQ = nb['nbr'].numero
+        if(args[0]) randomQ = args[0]
         const reac = ["<:lettreA:1184941756647751710>", "<:lettreB:1184941752793169931>", "<:lettreC:1184941748607262842>", "<:lettreD:1184941743276310709>"];
         const reacNames = ["lettreA", "lettreB", "lettreC", "lettreD"]; 
         const previousAnswers = {};
@@ -20,7 +21,7 @@ module.exports = {
         let i = 0;
         const question = cg[randomQ];
 
-        nb['nbr'].numero+=1;
+        if(!args[0]) nb['nbr'].numero+=1;
         fs.writeFile("./Commandes/Admin/quizzMc/nbrQuizz.json", JSON.stringify(nb), (err) => {
             if(err) console.log(err);
         })
@@ -49,21 +50,22 @@ module.exports = {
         for (i; i < nbrR; i++) {
             embed.addFields({ name: `Réponse ${reac[i]}`, value: `\`\`\`${question.choix[i]}\`\`\`` });
         }
-		message.channel.send('<@&1191777800114421901>')
+		if(!args[0]) message.channel.send('<@&1191777800114421901>')
         let msg = await message.channel.send({ embeds: [embed], components: [buttons] })
         const filter = (button) => reacNames.includes(button.customId) && !button.user.bot;
-        const collector = await msg.createMessageComponentCollector({ filter, componentType: "BUTTON", time: 2 * 60 * 60 * 1000 }); // 2 heures
+        const collector = await msg.createMessageComponentCollector({ filter, componentType: "BUTTON", time: 1 * 60 * 1000 }); // 2 heures
 
         collector.on('collect', async (button) => {
 
             const user = button.user;
             const buttonId = button.customId;
 
-            if (!previousAnswers[user.id]) previousAnswers[user.id] = buttonId;
+            if (!previousAnswers[user.id]){
+                previousAnswers[user.id] = buttonId;
+            }
             else {
                 const previousButtonId = previousAnswers[user.id];
                 if (previousButtonId !== buttonId) {
-                    // Si l'utilisateur change de réponse, mettez à jour
                     winner.pop(user.username);
                     previousAnswers[user.id] = buttonId;
                 } else return;
@@ -93,26 +95,17 @@ module.exports = {
                 .setColor('GREEN')
                 .setTitle('**Rappel de la question :**')
                 .setDescription(`\`\`\`${question.question}\`\`\``)
-                .addFields({ name: `La bonne réponse était ${reac[good - 1]}:`, value: `\`\`\`${question.choix[good - 1]}\`\`\`` })
+                .addFields({ name: `La bonne réponse était ${reac[good - 1]}:`, value: `\`\`\`${question.choix[good - 1]} \n${question.text}\`\`\`` })
                 .setFooter({ text:`Le QCM à eu ${Object.keys(previousAnswers).length} réponse(s)` })
 
             let winnersName = winner.map(username => `\`\`=>\`\` ${username}`).join('\n');
-            winner.map(async (username) => {
-                try {
-                    const user = message.guild.members.cache.find((m) => m.user.tag === username);
-                    if (user) {
-                        await user.send(`Bien joué vous avez bien répondu à ce quizz : ${message.url}\nVous gagnez donc 8 xp!`);
-                    }
-                } catch (error) {
-                    console.error(`Erreur lors de l'envoi du message à ${username}:`, error);
-                    // Gérer l'erreur ici (envoi d'un message dans le salon, journalisation, etc.)
-                }
-            });           
 
-            if (winnersName.length  === 0) {
+            if (winnersName.length === 0) {
                 EmbedRep.addFields({ name: 'Aucune réponse correcte.', value: '\u200B' });
-                EmbedRep.setColor('RED')
-            } else EmbedRep.addFields({ name: 'Ont répondu correctement :', value: `${winnersName}` });
+                EmbedRep.setColor('RED');
+            } else {
+                EmbedRep.addFields({ name: 'Ont répondu correctement :', value: `${winnersName}` });
+            }
 
             msg.delete();
             await message.channel.send({ embeds: [EmbedRep] });

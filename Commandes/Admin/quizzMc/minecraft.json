@@ -25,14 +25,50 @@
     },
     "5":{
         "question": "Les creeper sont nés grâce à une erreur de codage d'un mob, quel est ce mob? ",
-        "reponse": 4,
+        "reponse": 2,
         "text": " En voulant créer un cochon, Notch s'est trompé en saisissant des chiffres concernant la hauteur et la longueur, ce qui a créé le creeper",
         "choix": ["Une vache","Un cochon","Une chauve-souris","Un mouton"]
     },
     "6":{
-        "question": "Quel nom de nametag ne change pas la manière d'être de certains mob ? ",
-        "reponse": 4,
+        "question": "Quel nom de nametag n'effectue aucun changement quant il est appliqué sur un mob ? ",
+        "reponse": 1,
         "text": "Le nametag \"jeb\" ne change rien aux mobs, c'est \"jeb_\" qui permet de mettre un effet arc-en-ciel sur la laine des moutons",
         "choix": ["jeb","Johnny","Dinnerbone","Toast"]
+    },
+    "7":{
+        "question" : "Quel message est affiché lorsque vous mourez en voulant dormir dans le nether ou l'end ?",
+        "reponse": 2,
+        "text": "En effet, le message \"[Pseudo] s'est fait tuer par une [fonctionnalité intentionnelle]\" s'affiche lors que vous causez l'explosion de votre lit dans le nether et que vous en mourrez",
+        "choix":["[Pseudo] s'est fait exploser", "[Pseudo] s'est fait tuer par une [fonctionnalité intentionnelle]","[Pseudo] a péri dans une explosion causée par [game design]", "[Pseudo] a dormi dans une zone dangereuse"]
+    },
+    "8":{
+    	"question" : "Quel est le nom officiel de l'ender dragon ?",
+        "reponse": 4,
+        "text": "Le nom officiel du Dragon est bien \"Jean?\"",
+        "choix":["Jean", "Jeanne","Gilles", "Jean?"]
+	},
+    "9":{
+        "question" : "Quelle nourriture restaure le moins de gigot ?",
+        "reponse": 3,
+        "text": "La baie sucrée rapporte 1 gigot contre 2 face au chorus fruit. ",
+        "choix":["La viande de zombie", "La pomme","La baie sucrée", "Le chorus fruit"]
+    },
+    "10":{
+        "question" : "Combien de temps dure l’effet régénération de la pomme dorée enchantée sur Minecraft Java ?",
+        "reponse": 2,
+        "text": "L'effet de régénération de la pomme dorée enchantée sur Minecraft Java dure 20 secondes",
+        "choix":["15 secondes", "20 secondes","25 secondes", "30 secondes"]
+    },
+    "11":{
+        "question" : "Combien d’ancien débris devez vous récolter pour faire un beacon entier en netherite ?",
+        "reponse": 3,
+        "text": "Il faut bien 5904 ancien débris pour faire un beacon entier, et donc autant de l'ingot d'or.",
+        "choix":["7821", "11987","5904", "1492"]
+    },
+    "12":{
+        "question" : "Quel bloc, les enderman, ne peuvent-ils pas tenir dans leurs mains ? ",
+        "reponse": 2,
+        "text": "La réponse est : le fameux bloc de chemin 👀",
+        "choix":["Le cactus", "Le bloc de chemin","le sable rouge", "l'argile"]
     }
 }

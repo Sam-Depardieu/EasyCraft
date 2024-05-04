@@ -65,18 +65,117 @@ module.exports = {
         let components = ligne1.components.concat(ligne2.components, ligne3.components);
         let egality = false;
 
+        function getRandomMove(components) {
+            const validMoves = components.filter(button => !button.disabled);
+            const randomIndex = Math.floor(Math.random() * validMoves.length);
+            return components.indexOf(validMoves[randomIndex]);
+        }
+
+        function checkGameStatus(ligne1, ligne2, ligne3) {
+            if((ligne1.components[0].label === ligne2.components[0].label && ligne1.components[0].label === ligne3.components[0].label) || 
+                (ligne1.components[1].label === ligne2.components[1].label && ligne1.components[1].label === ligne3.components[1].label) ||
+                (ligne1.components[2].label === ligne2.components[2].label && ligne1.components[2].label === ligne3.components[2].label) ||
+                (ligne1.components[0].label === ligne1.components[1].label && ligne1.components[2].label === ligne1.components[0].label) ||
+                (ligne2.components[0].label === ligne2.components[1].label && ligne2.components[0].label === ligne2.components[2].label) || 
+                (ligne3.components[0].label === ligne3.components[1].label && ligne3.components[0].label === ligne3.components[2].label) || 
+                (ligne1.components[0].label === ligne2.components[1].label && ligne1.components[0].label === ligne3.components[2].label) ||
+                (ligne1.components[2].label === ligne2.components[1].label && ligne1.components[2].label === ligne3.components[0].label))
+            {
+                game = false;
+                return true
+            }
+            if(components.every(button => button.disabled))
+            { 
+                egality = true;
+                return true
+            }
+            return false
+        }
+
         const filter = interaction => ["A","B","C","D","E","F","G","H","I"].includes(interaction.customId) && game;
-        const collector = msg.createMessageComponentCollector({ filter, time:  180000});
+        const collector = await msg.createMessageComponentCollector({ filter, time:  180000});
 
         if(joueur2 === client.user){
-            return message.channel.send('ok')
+            collector.on('collect', async interaction => {
+                components = ligne1.components.concat(ligne2.components, ligne3.components)
+                if (interaction.user.id !== joueur1.id && interaction.user.id !== joueur2.id) return message.reply({ content: "Vous n'êtes pas invité à jouer.", ephemeral: true });
+                if ((interaction.user.id === joueur1.id && joueur === 0) || (interaction.user.id === joueur2.id && joueur === 1)) return message.reply({ content: "Ce n'est pas à vous de jouer.", ephemeral: true });
+                const choice = interaction.customId;
+                let currentButton = 0;
+                
+
+                if (joueur === 1) {
+                    switch(choice)
+                    {
+                        case 'A':
+                            currentButton = ligne1.components[0];
+                            break;
+                        case 'B':
+                            currentButton = ligne1.components[1];
+                            break;
+                        case 'C':
+                            currentButton = ligne1.components[2];
+                            break;
+                        case 'D':
+                            currentButton = ligne2.components[0];
+                            break;
+                        case 'E':
+                            currentButton = ligne2.components[1];
+                            break;
+                        case 'F':
+                            currentButton = ligne2.components[2];
+                            break;
+                        case 'G':
+                            currentButton = ligne3.components[0];
+                            break;
+                        case 'H':
+                            currentButton = ligne3.components[1];
+                            break;
+                        case 'I':
+                            currentButton = ligne3.components[2];
+                            break;
+        
+                    }
+                    currentButton.setCustomId("rond"+currentButton.customId).setLabel("O").setStyle("SUCCESS").setDisabled()
+                    msg.edit({ components: [ligne1, ligne2, ligne3] }).catch(console.error);
+
+                    if (checkGameStatus(ligne1, ligne2, ligne3)) {
+                        
+                        return collector.stop();
+                    }   
+                    joueur = 0;
+                }
+                if (joueur === 0) {
+                    // Logique pour que le bot fasse un mouvement automatique
+                    const randomMove = getRandomMove(components);
+                    currentButton = components[randomMove];
+                    
+                    // Mettez à jour le bouton du bot
+                    currentButton.setCustomId("croix" + currentButton.customId)
+                        .setLabel("X")
+                        .setStyle("DANGER")
+                        .setDisabled();
+                        
+                    // Mettez à jour le message
+                    msg.edit({ components: [ligne1, ligne2, ligne3] }).catch(console.error);
+
+                    if (checkGameStatus(ligne1, ligne2, ligne3)) {
+                        
+                        return collector.stop();
+                    }   
+                    joueur = 1;
+                }
+                
+                
+                             
+            });
         }
         else{
     
             collector.on('collect', async interaction => {
                 components = ligne1.components.concat(ligne2.components, ligne3.components)
-                if (interaction.user.id !== joueur1.id && interaction.user.id !== joueur2.id) return interaction.reply({ content: "Vous n'êtes pas invité à jouer.", ephemeral: true });
-                if ((interaction.user.id === joueur1.id && joueur === 0) || (interaction.user.id === joueur2.id && joueur === 1)) return interaction.reply({ content: "Ce n'est pas à vous de jouer.", ephemeral: true });
+                if (interaction.user.id !== joueur1.id && interaction.user.id !== joueur2.id) return message.reply({ content: "Vous n'êtes pas invité à jouer.", ephemeral: true });
+                if ((interaction.user.id === joueur1.id && joueur === 0) || (interaction.user.id === joueur2.id && joueur === 1)) return message.reply({ content: "Ce n'est pas à vous de jouer.", ephemeral: true });
                 const choice = interaction.customId;
                 let currentButton = 0;
     
@@ -113,23 +212,12 @@ module.exports = {
                 }
                 currentButton.setCustomId((joueur ? "rond"+currentButton.customId : "croix"+currentButton.customId)).setLabel((joueur ? "O" : "X")).setStyle((joueur ? "SUCCESS" : "DANGER")).setDisabled()
                 msg.edit({ components: [ligne1, ligne2, ligne3] }).catch(console.error);
-                if((ligne1.components[0].label === ligne2.components[0].label && ligne1.components[0].label === ligne3.components[0].label) || 
-                    (ligne1.components[1].label === ligne2.components[1].label && ligne1.components[1].label === ligne3.components[1].label) ||
-                    (ligne1.components[2].label === ligne2.components[2].label && ligne1.components[2].label === ligne3.components[2].label) ||
-                    (ligne1.components[0].label === ligne1.components[1].label && ligne1.components[2].label === ligne1.components[0].label) ||
-                    (ligne2.components[0].label === ligne2.components[1].label && ligne2.components[0].label === ligne2.components[2].label) || 
-                    (ligne3.components[0].label === ligne3.components[1].label && ligne3.components[0].label === ligne3.components[2].label) || 
-                    (ligne1.components[0].label === ligne2.components[1].label && ligne1.components[0].label === ligne3.components[2].label) ||
-                    (ligne1.components[2].label === ligne2.components[1].label && ligne1.components[2].label === ligne3.components[0].label))
-                {
-                    game = false
-                    return collector.stop()
+                
+                if (checkGameStatus(ligne1, ligne2, ligne3)) {
+                        
+                    return collector.stop();
                 }
-                if(components.every(button => button.disabled))
-                { 
-                    egality = true;
-                    collector.stop();
-                }
+
                 joueur = (joueur===1 ? 0 : 1);
             })
         }

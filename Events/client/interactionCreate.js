@@ -11,10 +11,16 @@ module.exports = {
 
             cmd.runSlash(client, interaction);
         } else if (interaction.isButton()){
+            const allowedValues = ["A", "B", "C", "D", "E", "F", "G", "H", "I"];
             const btm = client.buttons.get(interaction.customId);
-            if (!btm) return interaction.reply('Ce button n\'existe pas!');
 
-            btm.runSlash(client, interaction);
+            if (allowedValues.includes(interaction.customId)) {
+                interaction.reply(`Vous avez appuyé sur le bouton ${interaction.customId}`);
+            } else if (!btm) {
+                return interaction.reply('Ce button n\'existe pas!');
+            } else {
+                btm.runSlash(client, interaction);
+            }
         }
 
     },

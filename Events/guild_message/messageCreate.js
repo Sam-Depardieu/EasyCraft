@@ -9,21 +9,9 @@ module.exports = {
     async execute(client, message, guild) {
 
         if (message.author.bot) return;
-        let prefix = client.getGuild(message.guild).prefix || "!";
+        let prefix = "!";
         const args = message.content.slice(prefix.length).trim().split(/ +/g);
 
-        if(message.channelId === "1176266763185438860" && !message.content.startsWith(prefix) && !message.member.permissions.has('MANAGE_MESSAGES')){
-            if(!expCooldown.has(message.author.id)){
-                expCooldown.add(message.author.id);
-                setTimeout(() => {
-                    expCooldown.delete(message.author.id)
-                }, 5000)
-            }
-            else {
-                return message.reply('Merci de ne pas parler dans ce salon.')
-            }            
-        }
-        
         let user = message.mentions.users.first();
         if(user && message.content.trim() === `<@${client.user.id}>`){
             message.channel.send("Mon prefix sur ce serveur est -> \`\`"+ prefix+"\`\`");
@@ -98,6 +86,7 @@ module.exports = {
                         break;
                 }
                 await client.updateUser(message.author, {lvl: NowLevel+1, exp: 1, expTotal: client.expTotal+totalExp});
+                await client.updateJoueur(message.author, {point: userSettings.point+})
                 
                 userSettings = await client.getUser(message.author);
                 NowLevel = userSettings.lvl || 0;
